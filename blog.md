@@ -6,10 +6,10 @@ permalink: /blog/
 
 <link rel="stylesheet" href="/style.css">
 
-### **My Weblogs**
-#### **吾之網誌／Meine Weblogs／私のウェブログ／Các nhật ký web của tôi 各日記web𧵑碎／Мои веб-журналы／ངའི་ཟིན་བྲིས་རྣམས།**
+<h3><strong>My Weblogs</strong></h3>
 
-<h3>Blog Posts</h3>
+<h4><strong>吾之網誌／Meine Weblogs／私のウェブログ／Các nhật ký web của tôi 各日記web𧵑碎／Мои веб-журналы／ངའི་ཟིན་བྲིས་རྣམས།</strong></h4>
+
 <ul>
   {% for post in site.posts %}
     <li>
