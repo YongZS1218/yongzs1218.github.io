@@ -20,6 +20,13 @@ collections:
   posts:
     output: true
 
+defaults:
+  - scope:
+      path: "" # 所有的檔案
+      type: "posts"
+    values:
+      category: Blog
+
 #導航欄
 navbar_links:
   - title: "Home主頁"
