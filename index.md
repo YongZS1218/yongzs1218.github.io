@@ -1,9 +1,10 @@
-<link rel="stylesheet" href="style.css">
-
 ---
 layout: home
 title: "Home主頁"
 ---
+
+<link rel="stylesheet" href="style.css">
+
 **Hello**／您好／Hallo／こんにちは／吀嘲 Xin Chào／Привет／བཀྲ་ཤིས་བདེ་ལེགས།👋🏼
 
 - **Welcome to my weblog.**
