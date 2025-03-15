@@ -1,11 +1,14 @@
 title: YongZS永值生's Personal Weblog
-email: yongzs1218@sohu.com; yongzs1218@proton.me; yongzs1218@vk.com
 description: >- # this means to ignore newlines until "baseurl:"
   Music production enthusiast, travelling & photography lover, I’ll post my daily life here.
+  
   音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yongzs1218.github.io/"
 github_username: YongZS1218
+mastodon_username: [@yongzs1218@mastodon.ktachibana.party](https://mastodon.ktachibana.party/@yongzs1218)
+tumblr_username: @yongzs1218
+instagram_username: @yongzs1218
 
 # Build settings
 theme: minima
