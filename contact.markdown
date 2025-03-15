@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ---
 layout: page
 title: "Contact聯絡"
