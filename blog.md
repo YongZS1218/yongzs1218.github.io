@@ -10,7 +10,7 @@ permalink: /blog/
 
 <h4><strong>吾之網誌／Meine Weblogs／私のウェブログ／Các nhật ký web của tôi 各日記web𧵑碎／Мои веб-журналы／ངའི་ཟིན་བྲིས་རྣམས།</strong></h4>
 <a href="/feed.xml" target="_blank">
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/rss-logo-png-transparent.png" alt="RSS Subscribe" width="50" height="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/rss-logo-png-transparent.png" alt="RSS Subscribe" width="25" height="25"/>
 </a>
 
 <ul>
