@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "Contact Page of YongZS永值生's Personal Weblog"
+title: "Contact"
 permalink: /contact/
 ---
 ## Contact Informations
-##### 聯繫方式／Kontaktinformationen／聯絡先 / Thông Tin Liên Lạc 通信聯絡／Контактная Информация／འབྲེལ་མཐུད་བྱེད་སྟངས།
+##### **聯繫方式／Kontaktinformationen／聯絡先 / Thông Tin Liên Lạc 通信聯絡／Контактная Информация／འབྲེལ་མཐུད་བྱེད་སྟངས།**
+
 - **E-mail：**[yongzs1218@sohu.com](mailto:yongzs1218@sohu.com)｜
 [yongzs1218@proton.me](mailto:yongzs1218@proton.me)｜
 [yongzs1218@vk.com](mailto:yongzs1218@vk.com)
