@@ -9,7 +9,7 @@ permalink: /blog/
 ### **My Weblogs**
 #### **吾之網誌／Meine Weblogs／私のウェブログ／Các nhật ký web của tôi 各日記web𧵑碎／Мои веб-журналы／ངའི་ཟིན་བྲིས་རྣམས།**
 
-<h1>Blog Posts</h1>
+<h3>Blog Posts</h3>
 <ul>
   {% for post in site.posts %}
     <li>
