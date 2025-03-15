@@ -8,3 +8,16 @@
 body {
   font-family: 'Minh Ngyuen', serif;
 }
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+}
+
+header .logo img {
+    height: 50px;
+    width: auto;
+}
