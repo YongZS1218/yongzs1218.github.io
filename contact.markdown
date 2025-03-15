@@ -13,4 +13,3 @@ permalink: /contact/
 - **LINE:** [yungcs1218](https://line.me/ti/p/wLMQGJ87jm)
 - **Kakao Talk:** [yongzs1218](https://qr.kakao.com/talk/Qh3geJCiJAkytjyKiPaE1Qlvwbo-)
 - **QQ:** [1293868141 / YongZS1218](https://qm.qq.com/q/p2XylGh37E)
-- **Discord:** [yongzs1218](https://discord.com/invite/HtBctJkr)
