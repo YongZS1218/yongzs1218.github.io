@@ -15,11 +15,16 @@ theme: minima
 include:
   - style.css
 
+# 顯示Weblogs分頁
+collections:
+  posts:
+    output: true
+
 #導航欄
 navbar_links:
   - title: "Home主頁"
     url: /
   - title: "Weblog網誌"
-    url: /blog/
+    url: /categories/blog/
   - title: "Contact聯絡"
     url: /contact/
