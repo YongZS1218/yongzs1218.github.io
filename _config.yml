@@ -1,6 +1,25 @@
-theme: minima
 title: YongZS永值生's Personal Weblog
-author: YongZS永值生
-remote_theme: jekyll/not-pure-people
+email: yongzs1218@sohu.com; yongzs1218@proton.me; yongzs1218@vk.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Music production enthusiast, travelling & photography lover, I’ll post my daily life here.
+  音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yongzs1218.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+mastodon_username: @yongzs1218@mastodon.ktachibana.party
+tumblr_username: @yongzs1218
+instagram_username: yongzs1218
+github_username: YongZS1218
+
+# Build settings
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+
+#導航欄
+navbar_links:
+  - title: "Home主頁"
+    url: /
+  - title: "Weblog網誌"
+    url: /blog/
+  - title: "Contact聯絡"
+    url: /contact/
