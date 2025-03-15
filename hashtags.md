@@ -3,6 +3,8 @@ layout: page
 title: Hashtags
 ---
 
+<link rel="stylesheet" href="/style.css">
+
 ### **Hashtags**
 #### **話題標籤／ハッシュタグ／Хэштеги**
 
