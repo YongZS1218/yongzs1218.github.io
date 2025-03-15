@@ -28,6 +28,7 @@ Music production enthusiast, travelling & photography lover, I’ll post my dail
 [小红书/REDnote](https://www.xiaohongshu.com/user/profile/63d4cc150000000026006370) |
 [豆瓣/Douban](https://www.douban.com/people/YongZS1218/?_i=9475653ibAOHuR,9523077ibAOHuR) |
 [新浪微博/Sina Weibo](https://weibo.com/u/7451755760) |
+[Twitter/X](https://x.com/yongzs1218) |
 [VKontakte/ВКонтакте](https://vk.com/yongzs1218)
 
 **Music**
