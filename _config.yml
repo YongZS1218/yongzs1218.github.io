@@ -11,7 +11,7 @@ instagram_username: yongzs1218
 mastodon_username: yongzs1218@mastodon.ktachibana.party
 
 # Build settings
-theme: minima
+theme: null
 
 #導航欄
 navbar_links:
