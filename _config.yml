@@ -12,6 +12,7 @@ mastodon_username: yongzs1218@mastodon.ktachibana.party
 # Build settings
 theme: minima
 include:
+  - /logo.png
   - style.css
 
 #導航欄
