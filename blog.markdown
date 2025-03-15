@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weblogs of YongZS永值生's Personal Weblog"
+title: "Weblogs網誌"
 permalink: /blog/
 ---
 ## My Weblogs
