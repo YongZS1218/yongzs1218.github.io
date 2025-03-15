@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ---
 layout: post
 title: "Weblogs網誌"
