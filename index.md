@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 ---
 layout: home
 title: "Home主頁"
