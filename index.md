@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-# YongZS永值生's Personal Weblog
 Hello / 您好 / Hallo / こんにちは / 吀嘲 Xin Chào / Привет / བཀྲ་ཤིས་བདེ་ལེགས།👋🏼
 
 Welcome to my weblog.
