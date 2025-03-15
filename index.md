@@ -1,9 +1,7 @@
 ---
 layout: home
-title: "Main Page of YongZS永值生's Personal Weblog"
+title: "Home主頁"
 ---
-# YongZS永值生's Personal Weblog
-
 **Hello**／您好／Hallo／こんにちは／吀嘲 Xin Chào／Привет／བཀྲ་ཤིས་བདེ་ལེགས།👋🏼
 
 - **Welcome to my weblog.**
@@ -14,8 +12,8 @@ title: "Main Page of YongZS永值生's Personal Weblog"
 - Chào mừng đến với nhật ký web của tôi. 嘲𢜠𦤾貝日記web𧵑碎。
 - ངའི་ཟིན་བྲིས་ལ་ཕེབས་པར་དགའ་བསུ་ཞུ།
 
-## Introdoction
-#### 介紹／Einleitung／紹介／Giới thiệu 介紹／Введение／ངོ་སྤྲོད
+## **Introdoction**
+### **介紹／Einleitung／紹介／Giới thiệu 介紹／Введение／ངོ་སྤྲོད**
 
 - **📍Chinese Mainland, Han Chinese**
 
@@ -38,9 +36,10 @@ title: "Main Page of YongZS永值生's Personal Weblog"
 - 📍རྒྱ་ནང་ས་, ཧན་མི་རིགས།
 
   རོལ་དབྱངས་བཟོ་སྐྲུན་ལ་དགའ་མཁན་དང་། འགྲུལ་བཞུད་དང་པར་ལེན་ལ་དགའ་མཁན། ངས་འདི་གར་ངའི་ཉིན་རེའི་འཚོ་བ་སྤེལ་རྒྱུ་ཡིན།
-## Hyperlinks
 
-#### 超連結／ハイパーリンク／Siêu liên kết 超連結／Гиперссылки／སདྲ་འབྲེལ་མཐུད
+## **Hyperlinks**
+
+### 超連結／ハイパーリンク／Siêu liên kết 超連結／Гиперссылки／སདྲ་འབྲེལ་མཐུད
 
 **[bio.site](https://bio.site/yongzs1218)**
 
