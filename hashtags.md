@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hashtags#
+title: Hashtags #
 ---
 
 <link rel="stylesheet" href="/style.css">
