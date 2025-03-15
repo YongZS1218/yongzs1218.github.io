@@ -3,6 +3,14 @@ layout: home
 title: "Home主頁"
 ---
 
+<header>
+    <div class="logo">
+        <a href="/">
+            <img src="/logo.png" alt="logo" />
+        </a>
+    </div>
+</header>
+
 <link rel="stylesheet" href="style.css">
 
 **Hello**／您好／Hallo／こんにちは／吀嘲 Xin Chào／Привет／བཀྲ་ཤིས་བདེ་ལེགས།👋🏼
