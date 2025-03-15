@@ -6,7 +6,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yongzs1218.github.io/"
 github_username: YongZS1218
-mastodon_username: [@yongzs1218@mastodon.ktachibana.party](https://mastodon.ktachibana.party/@yongzs1218)
 tumblr_username: @yongzs1218
 instagram_username: @yongzs1218
 
