@@ -8,3 +8,18 @@
 body {
   font-family: 'Minh Ngyuen', serif;
 }
+
+.site-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.site-title::before {
+    content: '';
+    display: inline-block;
+    background: url('/logo.png') no-repeat center;
+    background-size: contain;
+    width: 40px; /* Logo 宽度 */
+    height: 40px; /* Logo 高度 */
+}
