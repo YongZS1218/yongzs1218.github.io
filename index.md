@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "YongZS永值生's Personal Weblog"
+title: ""
 ---
 
 # YongZS永值生's Personal Weblog
@@ -21,7 +21,7 @@ Music production enthusiast, travelling & photography lover, I’ll post my dail
 音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 
 ## Links連結
-[bio.site](https://bio.site/yongzs1218)
+**[bio.site](https://bio.site/yongzs1218)**
 
 **SNS**
 [Tumblr](https://yongzs1218.tumblr.con) |
