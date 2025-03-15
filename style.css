@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Minh Ngyuen'; /* 自定义字体名称 */
+  src: url('/fonts/Minh Nguyen Regular.ttf') format('ttf'),
+       url('/fonts/Minh Nguyen Bold.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: 'Minh Ngyuen', serif;
+}
