@@ -23,3 +23,10 @@ body {
     width: 40px; /* Logo 宽度 */
     height: 40px; /* Logo 高度 */
 }
+.hashtag-box {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
