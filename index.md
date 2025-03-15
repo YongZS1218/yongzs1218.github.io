@@ -1,6 +1,5 @@
 ---
 layout: default
-title: ""
 ---
 
 # YongZS永值生's Personal Weblog
