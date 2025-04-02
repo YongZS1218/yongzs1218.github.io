@@ -5,18 +5,27 @@ title: "Home主頁"
 
 <link rel="stylesheet" href="style.css">
 
-**Hello**／您好／Hallo／こんにちは／吀嘲 Xin Chào／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
+**Hello**／您好／Hallo／こんにちは／<ruby>吀<rt>Xin</rt></ruby><ruby>嘲<rt>Chào</rt></ruby> ／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
 
 - **Welcome to my weblog.**
 - 歡迎訪問吾之網誌。
 - Willkommen auf meinem Weblog. 
 - 私のウェブログへようこそ。
 - Добро пожаловать в мой веб-журнал.
-- Chào mừng đến với nhật ký web của tôi. 嘲𢜠𦤾貝日記web𧵑碎。
+- <ruby>嘲<rt>Chào</rt></ruby>
+<ruby>𢜠<rt>mừng</rt></ruby>
+<ruby>𦤾<rt>đến</rt></ruby>
+<ruby>貝<rt>với</rt></ruby>
+<ruby>日<rt>nhật</rt></ruby>
+<ruby>記<rt>ký</rt></ruby>
+web
+<ruby>𧵑<rt>của</rt></ruby>
+<ruby>碎<rt>tôi</rt></ruby>
+
 - ངའི་ཟིན་བྲིས་ལ་ཕེབས་པར་དགའ་བསུ་ཞུ།
 
 ## **Introdoction**
-### **介紹／Einleitung／紹介／Giới thiệu 介紹／Введение／ངོ་སྤྲོད**
+### **介紹／Einleitung／紹介／<ruby>介<rt>Giới</rt></ruby><ruby>紹<rt>thiệu</rt></ruby>／Введение／ངོ་སྤྲོད**
 
 - **📍Chinese Mainland, Han Chinese**
 
@@ -30,7 +39,7 @@ title: "Home主頁"
 - 📍中国大陸、漢民族
 
     音楽制作愛好家、旅行と写真愛好家、ここで私の日常生活を投稿します。
-- 📍Trung Quốc đại lục, người Hán 中國大陸，𠊛漢
+- 📍<ruby>中<rt>Trung</rt></ruby><ruby>國<rt>Quốc</rt></ruby><ruby>大<rt>đại</rt></ruby><ruby>陸<rt>lục</rt></ruby>，<ruby>𠊛<rt>người</rt></ruby><ruby>漢<rt>Hán</rt></ruby>
 
     Người đam mê sản xuất âm nhạc, người yêu thích du lịch và nhiếp ảnh, tôi sẽ đăng tải cuộc sống hàng ngày của mình tại đây.
 
@@ -44,7 +53,7 @@ title: "Home主頁"
 
 ## **Hyperlinks**
 
-### **超連結／ハイパーリンク／Siêu liên kết 超連結／Гиперссылки／སདྲ་འབྲེལ་མཐུད**
+### **超連結／ハイパーリンク／<ruby>超<rt>Siêu</rt></ruby><ruby>連<rt>liên</rt></ruby><ruby>結<rt>kết</rt></ruby>／Гиперссылки／སདྲ་འབྲེལ་མཐུད**
 
 **[bio.site](https://bio.site/yongzs1218)**
 
