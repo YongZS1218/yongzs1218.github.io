@@ -21,9 +21,7 @@ title: "Home主頁"
 web
 <ruby>𧵑<rt>của</rt></ruby>
 <ruby>碎<rt>tôi</rt></ruby>
-
 - 제 블로그에 <ruby>訪<rt>방</rt></ruby><ruby>問<rt>문</rt></ruby>해 주셔서 <ruby>歡<rt>환</rt></ruby><ruby>迎<rt>영</rt></ruby>합니다.
-
 - ངའི་ཟིན་བྲིས་ལ་ཕེབས་པར་དགའ་བསུ་ཞུ།
 
 ## **Introdoction**
