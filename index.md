@@ -5,7 +5,7 @@ title: "Home主頁"
 
 <link rel="stylesheet" href="style.css">
 
-**Hello**／您好／Hallo／こんにちは／<ruby>吀<rt>Xin</rt></ruby>&nbsp;<ruby>嘲<rt>Chào</rt></ruby> ／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
+**Hello**／您好／Hallo／こんにちは／<ruby>吀<rt>Xin</rt></ruby>&nbsp;&nbsp;<ruby>嘲<rt>Chào</rt></ruby> ／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
 
 - **Welcome to my weblog.**
 - 歡迎訪問吾之網誌。
@@ -25,7 +25,7 @@ web
 - ངའི་ཟིན་བྲིས་ལ་ཕེབས་པར་དགའ་བསུ་ཞུ།
 
 ## **Introdoction**
-### **介紹／Einleitung／紹介／<ruby>介<rt>Giới</rt></ruby>&nbsp;<ruby>紹<rt>thiệu</rt></ruby>／Введение／ངོ་སྤྲོད**
+### **介紹／Einleitung／紹介／<ruby>介<rt>Giới</rt></ruby>&nbsp;&nbsp;<ruby>紹<rt>thiệu</rt></ruby>／Введение／ངོ་སྤྲོད**
 
 - **📍Chinese Mainland, Han Chinese**
 
@@ -39,7 +39,7 @@ web
 - 📍中国大陸、漢民族
 
     音楽制作愛好家、旅行と写真愛好家、ここで私の日常生活を投稿します。
-- 📍<ruby>中<rt>Trung</rt></ruby>&nbsp;&nbsp;<ruby>國<rt>Quốc</rt></ruby>&nbsp;<ruby>大<rt>đại</rt></ruby>&nbsp;<ruby>陸<rt>lục</rt></ruby>，<ruby>𠊛<rt>người</rt></ruby>&nbsp;&nbsp;<ruby>漢<rt>Hán</rt></ruby>
+- 📍<ruby>中<rt>Trung</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>國<rt>Quốc</rt></ruby>&nbsp;&nbsp;<ruby>大<rt>đại</rt></ruby>&nbsp;<ruby>陸<rt>lục</rt></ruby>，<ruby>𠊛<rt>người</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>漢<rt>Hán</rt></ruby>
 
     Người đam mê sản xuất âm nhạc, người yêu thích du lịch và nhiếp ảnh, tôi sẽ đăng tải cuộc sống hàng ngày của mình tại đây.
 
