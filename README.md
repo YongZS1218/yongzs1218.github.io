@@ -1,4 +1,4 @@
-## Hello／您好／Hallo／こんにちは／<ruby>吀<rt>Xin</rt></ruby>&nbsp;&nbsp;<ruby>嘲<rt>Chào</rt></ruby>／<ruby>安<rt>안</rt></ruby><ruby>寧<rt>녕</rt></ruby>하십니까／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
+## Hello／您好／Hallo／こんにちは／<ruby>吀<rt>Xin</rt></ruby>&nbsp;<ruby>嘲<rt>Chào</rt></ruby>／<ruby>安<rt>안</rt></ruby><ruby>寧<rt>녕</rt></ruby>하십니까／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
 
 <!--
 **YongZS1218/yongzs1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
