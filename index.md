@@ -25,7 +25,7 @@ web
 - ངའི་ཟིན་བྲིས་ལ་ཕེབས་པར་དགའ་བསུ་ཞུ།
 
 ## **Introdoction**
-### **介紹／Einleitung／紹介／<ruby>介<rt>Giới</rt></ruby>&nbsp;&nbsp;<ruby>紹<rt>thiệu</rt></ruby>／Введение／ངོ་སྤྲོད**
+### **介紹／Einleitung／紹介／<ruby>介<rt>Giới</rt></ruby>&nbsp;&nbsp;<ruby>紹<rt>thiệu</rt></ruby>／<ruby>紹<rt>소</rt></ruby><ruby>介<rt>개</rt></ruby>／Введение／ངོ་སྤྲོད**
 
 - **📍Chinese Mainland, Han Chinese**
 
@@ -44,11 +44,10 @@ web
     Người đam mê sản xuất âm nhạc, người yêu thích du lịch và nhiếp ảnh, tôi sẽ đăng tải cuộc sống hàng ngày của mình tại đây.
 
     𠊛耽迷產出音樂，𠊛㤇適遊歷吧攝影，碎䐭登載局𤯩行𣈜𧵑𨉟在𩂠。
-- 📍<ruby>中<rt>중</rt></ruby><ruby>國<rt>국</rt></ruby><ruby>大<rt>대</rt></ruby><ruby>陸<rt>륙</rt></ruby>의 <ruby>漢<rt>한</rt></ruby><ruby>族<rt>족</rt></ruby>
+- 📍<ruby>中<rt>중</rt></ruby><ruby>國<rt>국</rt></ruby>&nbsp;&nbsp;<ruby>大<rt>대</rt></ruby><ruby>陸<rt>륙</rt></ruby>의&nbsp;&nbsp;<ruby>漢<rt>한</rt></ruby><ruby>族<rt>족</rt></ruby>
 
-    음악 제작 애호가이며 여행과 사진 촬영 애호가입니다. 일상 생활을 이곳에 발표하겠습니다.
+    <ruby>音<rt>음</rt></ruby><ruby>樂<rt>악</rt></ruby>&nbsp;&nbsp;<ruby>製<rt>제</rt></ruby><ruby>作<rt>작</rt></ruby>&nbsp;&nbsp;<ruby>愛<rt>애</rt></ruby><ruby>好<rt>호</rt></ruby><ruby>者<rt>가</rt></ruby>이며&nbsp;&nbsp;<ruby>旅<rt>여</rt></ruby><ruby>行<rt>행</rt></ruby>과&nbsp;&nbsp;<ruby>寫<rt>사</rt></ruby><ruby>真<rt>진</rt></ruby>&nbsp;&nbsp;<ruby>撮<rt>촬</rt></ruby><ruby>影<rt>영</rt></ruby>&nbsp;&nbsp;<ruby>愛<rt>애</rt></ruby><ruby>好<rt>호</rt></ruby><ruby>者<rt>가</rt></ruby>입니다.&nbsp;&nbsp;<ruby>日<rt>일</rt></ruby><ruby>常<rt>상</rt></ruby>&nbsp;&nbsp;<ruby>生<rt>생</rt></ruby><ruby>活<rt>활</rt></ruby>을&nbsp;&nbsp;이곳에&nbsp;&nbsp;<ruby>發<rt>발</rt></ruby><ruby>表<rt>표</rt></ruby>하겠습니다.
 
-    音樂 製作 愛好者이며 旅行과 寫真 撮影 愛好者입니다. 日常 生活을 이곳에 發表하겠습니다.
 - 📍Китайская часть материка, Ханьцзу́
 
   Любитель музыкального производства, любитель путешествий и фотографии, я буду публиковать здесь свою повседневную жизнь.
@@ -58,7 +57,7 @@ web
 
 ## **Hyperlinks**
 
-### **超連結／ハイパーリンク／<ruby>超<rt>Siêu</rt></ruby>&nbsp;<ruby>連<rt>liên</rt></ruby><ruby>結<rt>kết</rt></ruby>／Гиперссылки／སདྲ་འབྲེལ་མཐུད**
+### **超連結／ハイパーリンク／<ruby>超<rt>Siêu</rt></ruby>&nbsp;<ruby>連<rt>liên</rt></ruby><ruby>結<rt>kết</rt></ruby>／<ruby>超<rt>초</rt></ruby><ruby>連<rt>연</rt></ruby><ruby>結<rt>결</rt></ruby>／Гиперссылки／སདྲ་འབྲེལ་མཐུད**
 
 **[bio.site](https://bio.site/yongzs1218)**
 
