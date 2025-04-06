@@ -35,6 +35,6 @@ Instrument: Exakt Lite (FM Synthesizer)
 
 <iframe width="100%" height="150" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2071361524&color=%23982cff&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/yongzs1218" title="YongZS永值生" target="_blank" style="color: #cccccc; text-decoration: none;">YongZS永值生</a> · <a href="https://soundcloud.com/yongzs1218/atonal-composition-exercise" title="Atonal Composition Exercise 無調性作曲練習" target="_blank" style="color: #cccccc; text-decoration: none;">Atonal Composition Exercise 無調性作曲練習</a></div>
 
-<iframe src="https://streetvoice.com/music/embed/?id=808681" width="100%" height="100" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe src="https://streetvoice.com/music/embed/?id=808681" width="200%" height="100" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 
 <iframe width="100%" height="400" src="https://www.bandlab.com/embed/shout/?id=ad79d243682f453c9f7be99ae211e182_dd339ececa5b4fafb3270ddfde570dae" frameborder="no" scrolling="no" allowfullscreen></iframe>
