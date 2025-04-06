@@ -7,15 +7,15 @@ categories: Weblogs網誌
 
 <link rel="stylesheet" href="/style.css">
 
-##Übung zur atonalen Komposition
+<h3>Übung zur atonalen Komposition</h3>
 
-##<ruby>無<rt>む</rt></ruby>&nbsp;<ruby>調性<rt>ちょうせい</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>作曲<rt>さっきょく</rt></ruby>&nbsp;&nbsp;&nbsp;&nbsp;<ruby>練習<rt>れんしゅう</rt></ruby>
+<h3><ruby>無<rt>む</rt></ruby>&nbsp;<ruby>調性<rt>ちょうせい</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>作曲<rt>さっきょく</rt></ruby>&nbsp;&nbsp;&nbsp;&nbsp;<ruby>練習<rt>れんしゅう</rt></ruby></h3>
 
-##<ruby>排<rt>Bài</rt></ruby><ruby>習<rt>tập</rt></ruby>&nbsp;<ruby>創<rt>sáng</rt></ruby>&nbsp;<ruby>作<rt>tác</rt></ruby>&nbsp;<ruby>樂<rt>nhạc</rt></ruby>&nbsp;<ruby>非<rt>phi</rt></ruby>&nbsp;<ruby>調<rt>điệu</rt></ruby>&nbsp;<ruby>性<rt>tính</rt></ruby>
+<h3><ruby>排<rt>Bài</rt></ruby><ruby>習<rt>tập</rt></ruby>&nbsp;<ruby>創<rt>sáng</rt></ruby>&nbsp;<ruby>作<rt>tác</rt></ruby>&nbsp;<ruby>樂<rt>nhạc</rt></ruby>&nbsp;<ruby>非<rt>phi</rt></ruby>&nbsp;<ruby>調<rt>điệu</rt></ruby>&nbsp;<ruby>性<rt>tính</rt></ruby></h3>
 
-##<ruby>無<rt>무</rt></ruby><ruby>調<rt>조</rt></ruby><ruby>性<rt>성</rt></ruby>&nbsp;<ruby>作<rt>작</rt></ruby><ruby>曲<rt>곡</rt></ruby>&nbsp;연습
+<h3><ruby>無<rt>무</rt></ruby><ruby>調<rt>조</rt></ruby><ruby>性<rt>성</rt></ruby>&nbsp;<ruby>作<rt>작</rt></ruby><ruby>曲<rt>곡</rt></ruby>&nbsp;연습</h3>
 
-##Упражнение по сочинению атональной музыки
+<h3>Упражнение по сочинению атональной музыки</h3>
 
 Introduction to Post-Tonal Theory: Chapter 2 Exercises—Composition I. Compose a continuation of the first 2 measures from Arnold Schönberg’s "Three Piano Pieces, Op. 11, No. 1" 
 
