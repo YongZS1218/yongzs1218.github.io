@@ -17,6 +17,7 @@ permalink: /contact/
 - **Kakao Talk:** [yongzs1218](https://qr.kakao.com/talk/Qh3geJCiJAkytjyKiPaE1Qlvwbo-)
 - **QQ:** 1293868141／YongZS1218
 
+
 ### **Hyperlinks**
 
 #### **超連結／ハイパーリンク／<ruby>超<rt>Siêu</rt></ruby>&nbsp;<ruby>連<rt>liên</rt></ruby><ruby>結<rt>kết</rt></ruby>／<ruby>超<rt>초</rt></ruby><ruby>連<rt>연</rt></ruby><ruby>結<rt>결</rt></ruby>／Гиперссылки／སདྲ་འབྲེལ་མཐུད**
@@ -30,4 +31,4 @@ permalink: /contact/
 [SoundCloud](https://soundcloud.com/yongzs1218)｜[Bandcamp](https://yongzs1218.bandcamp.com/)｜[BandLab](https://www.bandlab.com/yongzs1218)｜[StreetVoice/街聲](https://streetvoice.com/YongZS1218/)｜[QQ音乐/QQ Music](https://y.qq.com/n/ryqq/singer/004TlJLl0fnqwh)｜[网易云音乐/NetEase Cloud Music](https://music.163.com/#/artist?id=50000746)｜[酷狗音乐/Kugou Music](https://www.kugou.com/singer/info/6JJVAKDE99F64E/)｜[酷我音乐/Kuwo Music](https://kuwo.cn/singer_detail/8241275)
 
 **Video**
-[YouTube](https://www.youtube.com/@yongzs1218)｜[Odysee](https://odysee.com/@yongzs1218)｜[TikTok](https://www.tiktok.com/@yongzs1218)｜[bilibili/哔哩哔哩](https://space.bilibili.com/618957997)｜[AcFun](https://www.acfun.cn/u/51064405)｜[抖音/Douyin](https://www.douyin.com/user/MS4wLjABAAAA6XGuIBDNrQ3rRy7KAczB8CFrBn2CLEFbaUPE5x4k7So)｜[快手/Kuaishou](https://www.kuaishou.com/profile/3xw8cp8hu54y85s)｜[Niconico/ニコニコ](https://www.nicovideo.jp/user/131152965)｜[Kwai](https://m.kwai.com/old/user/@yongzs1218)
+[YouTube](https://www.youtube.com/@yongzs1218)｜[Dailymotion](https://www.dailymotion.com/user/yongzs1218)｜[Odysee](https://odysee.com/@yongzs1218)｜[TikTok](https://www.tiktok.com/@yongzs1218)｜[bilibili/哔哩哔哩](https://space.bilibili.com/618957997)｜[AcFun](https://www.acfun.cn/u/51064405)｜[抖音/Douyin](https://www.douyin.com/user/MS4wLjABAAAA6XGuIBDNrQ3rRy7KAczB8CFrBn2CLEFbaUPE5x4k7So)｜[快手/Kuaishou](https://www.kuaishou.com/profile/3xw8cp8hu54y85s)｜[Niconico/ニコニコ](https://www.nicovideo.jp/user/131152965)｜[Kwai](https://m.kwai.com/old/user/@yongzs1218)
