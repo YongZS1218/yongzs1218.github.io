@@ -10,7 +10,7 @@ categories: Weblogs網誌
 <iframe 
   src="https://yongzs1218.github.io/hsuan-kung/" 
   width="100%" 
-  height="800px" 
+  height="400px" 
   title="旋宮圖 Hsüan Kung Diagram"
   frameborder="0" 
   style="border: none;">
