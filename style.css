@@ -9,6 +9,14 @@ body {
   font-family: 'Minh Ngyuen', serif;
 }
 
+/* 設定使用 special-font 類別的文字字體 */
+.special-font {
+    font-family: "HanaMinB", serif;
+    src: url('/fonts/HanaMinB.woff') format('woff'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
 .site-title {
     display: flex;
     align-items: center;
