@@ -14,7 +14,7 @@ categories: Weblogs網誌
   title="旋宮圖 Hsüan Kung Diagram"
   frameborder="0" 
   style="border: none;">
-  <a href="https://www.example.com">example.com</a>
+  <a href="https://yongzs1218.github.io/hsuan-kung">旋宮圖｜Hsüan Kung Diagram</a>
 </iframe>
 
 在AI的指導下，我用JavaScript、CSS和HTML架設了一份網頁版「**旋宮圖**」。該圖可用於**旋宮犯調**實踐，**之調、爲調轉換**等場景。
