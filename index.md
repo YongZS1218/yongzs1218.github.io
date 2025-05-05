@@ -70,18 +70,6 @@ web
 **Video**
 [YouTube](https://www.youtube.com/@yongzs1218)｜[Dailymotion](https://www.dailymotion.com/user/yongzs1218)｜[Odysee](https://odysee.com/@yongzs1218)｜[TikTok](https://www.tiktok.com/@yongzs1218)｜[bilibili/哔哩哔哩](https://space.bilibili.com/618957997)｜[AcFun](https://www.acfun.cn/u/51064405)｜[抖音/Douyin](https://www.douyin.com/user/MS4wLjABAAAA6XGuIBDNrQ3rRy7KAczB8CFrBn2CLEFbaUPE5x4k7So)｜[快手/Kuaishou](https://www.kuaishou.com/profile/3xw8cp8hu54y85s)｜[VK Video/ВК Видео](https://vkvideo.ru/@yongzs1218_video)｜[Niconico/ニコニコ](https://www.nicovideo.jp/user/131152965)｜[Kwai](https://m.kwai.com/old/user/@yongzs1218)
 
-<iframe 
-  src="https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z" 
-  width="100%" 
-  height="300px" 
-  title="Travel Footprints"
-  frameborder="0" 
-  style="border: none;">
-  <a href="https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z">Travel Footprints</a>
-</iframe>
-
-{% for post in site.posts %}
-  <li>
-     <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
+<a href="https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z" target="_blank">
+  <img src="_posts/_pictures, audios and videos/travel footprints.png" alt="travel" width="100%" height="50%"/>
+</a>
