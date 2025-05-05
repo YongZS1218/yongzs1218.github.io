@@ -70,6 +70,8 @@ web
 **Video**
 [YouTube](https://www.youtube.com/@yongzs1218)｜[Dailymotion](https://www.dailymotion.com/user/yongzs1218)｜[Odysee](https://odysee.com/@yongzs1218)｜[TikTok](https://www.tiktok.com/@yongzs1218)｜[bilibili/哔哩哔哩](https://space.bilibili.com/618957997)｜[AcFun](https://www.acfun.cn/u/51064405)｜[抖音/Douyin](https://www.douyin.com/user/MS4wLjABAAAA6XGuIBDNrQ3rRy7KAczB8CFrBn2CLEFbaUPE5x4k7So)｜[快手/Kuaishou](https://www.kuaishou.com/profile/3xw8cp8hu54y85s)｜[VK Video/ВК Видео](https://vkvideo.ru/@yongzs1218_video)｜[Niconico/ニコニコ](https://www.nicovideo.jp/user/131152965)｜[Kwai](https://m.kwai.com/old/user/@yongzs1218)
 
+### **[Travel Footprints](https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z&share=1)**
+
 {% for post in site.posts %}
   {% unless post.categories contains "Blog" %}
     <li>
