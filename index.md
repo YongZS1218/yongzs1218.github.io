@@ -27,6 +27,7 @@ web
 ## **Introdoction**
 ### **介紹／Einleitung／紹介／<ruby>介<rt>Giới</rt></ruby>&nbsp;&nbsp;<ruby>紹<rt>thiệu</rt></ruby>／<ruby>紹<rt>소</rt></ruby><ruby>介<rt>개</rt></ruby>／Введение／ངོ་སྤྲོད**
 
+- **Pronouns: ze / zir / 伊 / 渠 / 佢**
 - **📍Chinese Mainland, Han Chinese**
 
     **Music production enthusiast, travelling & photography lover, I’ll post my daily life here.**
