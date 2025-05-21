@@ -54,3 +54,6 @@ The “Four Tsêng” (四曾) are Kung¹ Tsêng¹ (宮曾), Shang¹ Tsêng¹ (�
 The “Four Fu” (四<span class="special-font">𩒺</span>), also known as “Four Chüeh” (四角 / Ssu⁴ Chüeh²), are Kung¹ Fu³ (宮<span class="special-font">𩒺</span>), Shang¹ Fu³ (商<span class="special-font">𩒺</span>), Chih³ Fu³ (徵<span class="special-font">𩒺</span>), and Yü³ Fu³ (羽<span class="special-font">𩒺</span>); they are a major third higher than the Four Bases;
 
 The “Shih-êrh Lü” (十二律) literally means “12 pitches”, are Huang² Chung¹ (黃鐘), Ta⁴ Lü³ (大呂), T'ai⁴ Ts'u⁴ (太簇), Chia² Chung¹ (夾鐘), Ku¹ Hsien³ (姑洗), Chung⁴ Lü³ (仲呂), Jui² Pin¹ (蕤賓), Lin² Chung¹ (林鐘), I² Tsê² (夷則), Nan² Lü³ (南呂), Wu² I⁴ (無射), and Ying⁴ Chung¹ (應鐘).
+
+AIの指導のもと、私はJavaScript、CSS、HTMLを用いてウェブ版「**<ruby>旋宮図<rt>せんきゅうず</rt></ruby>**」を構築しました。この図は、**<ruby>旋宮犯調<rt>せんきゅうはんちょう</rt></ruby>** の実践や、**<ruby>之調<rt>しちょう</rt></ruby>** ・ **<ruby>爲調<rt>いちょう</rt></ruby>** の変換などのシナリオに活用できます。
+
