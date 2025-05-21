@@ -37,6 +37,7 @@ categories: Weblogs網誌
 
 「十二律呂」是「黃鐘」「大呂」「太簇」「夾鐘」「姑洗」「仲呂」「蕤賓」「林鐘」「夷則」「南呂」「無射」「應鐘」。
 
+<br>
 ---
 <br>
 
@@ -58,6 +59,7 @@ The “Four Fu” (四<span class="special-font">𩒺</span>), also known as “
 
 The “Shih-êrh Lü” (十二律) literally means “12 pitches”, are Huang² Chung¹ (黃鐘), Ta⁴ Lü³ (大呂), T'ai⁴ Ts'u⁴ (太簇), Chia² Chung¹ (夾鐘), Ku¹ Hsien³ (姑洗), Chung⁴ Lü³ (仲呂), Jui² Pin¹ (蕤賓), Lin² Chung¹ (林鐘), I² Tsê² (夷則), Nan² Lü³ (南呂), Wu² I⁴ (無射), and Ying⁴ Chung¹ (應鐘).
 
+<br>
 ___
 <br>
 
@@ -77,9 +79,10 @@ AIの指導のもと、私はJavaScript、CSS、HTMLを用いてウェブ版「*
 
 「十二律」は「<ruby>黄鐘<rt>こうしょう</rt></ruby>」「<ruby>大呂<rt>たいりょ</rt></ruby>」「<ruby>太簇<rt>たいそう</rt></ruby>」「<ruby>夾鐘<rt>きょうしょう</rt></ruby>」「<ruby>姑洗<rt>こせん</rt></ruby>」「<ruby>仲呂<rt>ちゅうりょ</rt></ruby>」「<ruby>蕤賓<rt>すいひん</rt></ruby>」「<ruby>林鐘<rt>りんしょう</rt></ruby>」「<ruby>夷則<rt>いそく</rt></ruby>」「<ruby>南呂<rt>なんりょ</rt></ruby>」「<ruby>無射<rt>ぶえき</rt></ruby>」「<ruby>応鐘<rt>おうしょう</rt></ruby>」です。
 
+<br>
 ***
 <br>
 
-Dưới sự hướng dẫn của AI, tôi đã xây dựng một “<ruby>圖旋宮<rt>Đồ Huyền Cung</rt></ruby>” phiên bản web bằng JavaScript, CSS và HTML. Bản đồ này có thể ứng dụng trong thực hành chuyển điệu <ruby>旋宮<rt>Huyền Cung</rt></ruby> - <ruby>犯調<rt>Phạm Điệu</rt></ruby>, cũng như chuyển đổi giữa hệ thống <ruby>之調<rt>Chi Điệu</rt></ruby> và <ruby>爲調<rt>Vi Điệu</rt></ruby>.
+Dưới sự hướng dẫn của AI, tôi đã xây dựng một “**<ruby>圖旋宮<rt>Đồ Huyền Cung</rt></ruby>**” phiên bản web bằng JavaScript, CSS và HTML. Bản đồ này có thể ứng dụng trong thực hành chuyển điệu **<ruby>旋宮<rt>Huyền Cung</rt></ruby> - <ruby>犯調<rt>Phạm Điệu</rt></ruby>**, cũng như chuyển đổi giữa hệ thống **<ruby>之調<rt>Chi Điệu</rt></ruby>** và **<ruby>爲調<rt>Vi Điệu</rt></ruby>**.
 
-𨑜事向引𧵑AI，碎㐌𡏦𥩯“圖旋宮”翻版web憑JavaScript，CSS吧HTML。版圖尼固體應用𥪝轉調 旋宮-犯調，拱如轉𢷮𡧲系統之調吧爲調。
+𨑜事向引𧵑AI，碎㐌𡏦𥩯“**圖旋宮**”翻版web憑JavaScript，CSS吧HTML。版圖尼固體應用𥪝轉調**旋宮-犯調**，拱如轉𢷮𡧲系統**之調**吧**爲調**。
