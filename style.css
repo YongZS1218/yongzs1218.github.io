@@ -10,11 +10,18 @@ body {
 }
 
 /* 設定使用 special-font 類別的文字字體 */
+@font-face {
+    font-family: 'HanaMinB'; /* 您在 CSS 中引用的字體名稱 */
+    src: url('/fonts/HanaMinB.woff') format('woff'); /* ***這裡的檔案副檔名和格式都要改為 .woff 和 'woff' *** */
+    font-weight: normal; /* 字體的粗細 */
+    font-style: normal;  /* 字體的樣式 */
+    font-display: swap;  /* 建議添加，有助於改善字體載入體驗 */
+}
 .special-font {
-    font-family: "HanaMinB", serif;
-    src: url('/fonts/HanaMinB.woff') format('woff'); 
-    font-weight: normal;
-    font-style: normal;
+    font-family: "HanaMinB", serif;  
+}
+body {
+  font-family: 'Minh Ngyuen', serif;
 }
 
 .site-title {
