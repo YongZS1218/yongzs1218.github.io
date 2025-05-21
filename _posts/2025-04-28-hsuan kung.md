@@ -57,3 +57,16 @@ The “Shih-êrh Lü” (十二律) literally means “12 pitches”, are Huang�
 
 AIの指導のもと、私はJavaScript、CSS、HTMLを用いてウェブ版「**<ruby>旋宮図<rt>せんきゅうず</rt></ruby>**」を構築しました。この図は、**<ruby>旋宮犯調<rt>せんきゅうはんちょう</rt></ruby>** の実践や、**<ruby>之調<rt>しちょう</rt></ruby>** ・ **<ruby>爲調<rt>いちょう</rt></ruby>** の変換などのシナリオに活用できます。
 
+**内円は「<ruby>五正声<rt>ごせいせい</rt></ruby>」「<ruby>四変声<rt>しへんせい</rt></ruby>」、中円は「<ruby>四基<rt>しき</rt></ruby>」「<ruby>四曾<rt>しそう</rt></ruby>」「<ruby>四<span class="special-font">𩒺</span><rt>しほ</rt></ruby>」、外円は「<ruby>十二律<rt>じゅうにりつ</rt></ruby>」です。**
+
+「五正声」は「<ruby>宮<rt>きゅう</rt></ruby>」「<ruby>商<rt>しょう</rt></ruby>」「<ruby>角<rt>かく</rt></ruby>」「<ruby>徴<rt>ち</rt></ruby>」「<ruby>羽<rt>う</rt></ruby>」です。
+
+「四変声」は「<ruby>清角<rt>せいかく</rt></ruby>」「<ruby>変徴<rt>へんち</rt></ruby>」「<ruby>清羽<rt>せいう</rt></ruby>」「<ruby>変宮<rt>へんきゅう</rt><ruby>」です。
+
+「四基」は「宮」「商」「徴」「羽」です。
+
+「四曾」は「宮曾」「商曾」「徴曾」「羽曾」で、四基よりも長三度低いです。
+
+「四<span class="special-font">𩒺</span>」は別名「四角」とも呼ばれ、「宮<span class="special-font">𩒺</span>」「商<span class="special-font">𩒺</span>」「徴<span class="special-font">𩒺</span>」「羽<span class="special-font">𩒺</span>」で、四基よりも長三度高いです。
+
+「十二律」は「<ruby>黄鐘<rt>こうしょう</rt></ruby>」「<ruby>大呂<rt>たいりょ</rt></ruby>」「<ruby>太簇<rt>たいそう</rt></ruby>」「<ruby>夾鐘<rt>きょうしょう</rt></ruby>」「<ruby>姑洗<rt>こせん</rt></ruby>」「<ruby>仲呂<rt>ちゅうりょ</rt></ruby>」「<ruby>蕤賓<rt>すいひん</rt></ruby>」「<ruby>林鐘<rt>りんしょう</rt></ruby>」「<ruby>夷則<rt>いそく</rt></ruby>」「<ruby>南呂<rt>なんりょ</rt></ruby>」「<ruby>無射<rt>ぶえき</rt></ruby>」「<ruby>応鐘<rt>おうしょう</rt></ruby>」です。
