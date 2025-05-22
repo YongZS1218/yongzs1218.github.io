@@ -86,3 +86,8 @@ AIの指導のもと、私はJavaScript、CSS、HTMLを用いてウェブ版「*
 Dưới sự hướng dẫn của AI, tôi đã xây dựng một “**<ruby>圖旋宮<rt>Đồ Huyền Cung</rt></ruby>**” phiên bản web bằng JavaScript, CSS và HTML. Bản đồ này có thể ứng dụng trong thực hành chuyển điệu **<ruby>旋宮<rt>Huyền Cung</rt></ruby> - <ruby>犯調<rt>Phạm Điệu</rt></ruby>**, cũng như chuyển đổi giữa hệ thống **<ruby>之調<rt>Chi Điệu</rt></ruby>** và **<ruby>爲調<rt>Vi Điệu</rt></ruby>**.
 
 𨑜事向引𧵑AI，碎㐌𡏦𥩯“**圖旋宮**”翻版web憑JavaScript，CSS吧HTML。版圖尼固體應用𥪝轉調**旋宮-犯調**，拱如轉𢷮𡧲系統**之調**吧**爲調**。
+
+**Vòng trong cùng là "Ngũ chính thanh" và "Tứ biến thanh"; vòng giữa là "Tứ cơ", "Tứ tằng" và "Tứ phụ"; vòng ngoài cùng là "Mười hai luật lữ".**
+
+**𤥑𥪝窮𱺵“五正聲”吧“四變聲”；𤥑𡧲𱺵“四基”，“四曾”吧“四𩒺”；𤥑外窮𱺵“𱑕𠄩律呂”。**
+
