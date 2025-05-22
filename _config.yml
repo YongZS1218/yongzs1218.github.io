@@ -4,11 +4,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yongzs1218.github.io/"
+hyperlinks_username: yongzs1218
 github_username: YongZS1218
 instagram_username: yongzs1218
 facebook_username: yongzs1218
 fediverse_username: yongzs1218@pari.cafe
 tumblr_username: yongzs1218
+youtube_username: yongzs1218
+bilibili_uid: 618957997
 douban_username: YongZS1218
 vk_username: yongzs1218
 bandlab_username: yongzs1218
