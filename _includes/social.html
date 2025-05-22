@@ -1,5 +1,12 @@
 {%- assign social_links = site.minima.social_links | default: site.social_links -%}
 
+{%- if site.hyperlinks_username -%}
+  <a href="https://bio.site/{{ site.hyperlinks_username }}" title="hyperlinks">
+    <img src="https://simpleicons.org/icons/instagram.svg" width="24" height="24" alt="hyperlinks" style="vertical-align:middle;">
+    <span class="username"></span>
+  </a>
+{%- endif -%}
+
 {%- if site.instagram_username or social_links.instagram -%}
   <a href="https://instagram.com/{{ site.instagram_username | default: social_links.instagram }}" title="Instagram">
     <img src="https://simpleicons.org/icons/instagram.svg" width="24" height="24" alt="instagram" style="vertical-align:middle;">
@@ -25,6 +32,20 @@
   <a href="https://github.com/{{ site.github_username | default: social_links.github }}" title="GitHub">
     <img src="https://simpleicons.org/icons/github.svg" width="24" height="24" alt="github" style="vertical-align:middle;">
     <span class="username"></span>
+  </a>
+{%- endif -%}
+
+{%- if site.youtube_username -%}
+  <a href="https://youtube.com/@{{ site.youtube_username }}" title="youtube">
+    <img src="https://simpleicons.org/icons/youtube.svg" width="24" height="24" alt="youtube" style="vertical-align:middle;">
+    <span class="username"></span>
+  </a>
+{%- endif -%}
+
+{%- if site.bilibili_uid -%}
+  <a href="https://space.bilibili.com/{{ site.bilibili_uid }}" title="bilibili">
+    <img src="https://simpleicons.org/icons/bilibili.svg" width="24" height="24" alt="bilibili" style="vertical-align:middle;">
+    <span class="uid"></span>
   </a>
 {%- endif -%}
 
