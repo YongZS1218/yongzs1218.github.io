@@ -89,5 +89,5 @@ Dưới sự hướng dẫn của AI, tôi đã xây dựng một “**<ruby>圖
 
 **Vòng trong cùng là "Ngũ chính thanh" và "Tứ biến thanh"; vòng giữa là "Tứ cơ", "Tứ tằng" và "Tứ phụ"; vòng ngoài cùng là "Mười hai luật lữ".**
 
-**𤥑𥪝窮𱺵“五正聲”吧“四變聲”；𤥑𡧲𱺵“四基”，“四曾”吧“四𩒺”；𤥑外窮𱺵“𱑕𠄩律呂”。**
+**𤥑𥪝窮𱺵“五正聲”吧“四變聲”；𤥑𡧲𱺵“四基”，“四曾”吧“四<span class="special-font">𩒺</span>”；𤥑外窮𱺵“𱑕𠄩律呂”。**
 
