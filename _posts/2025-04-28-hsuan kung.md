@@ -106,3 +106,23 @@ Dưới sự hướng dẫn của AI, tôi đã xây dựng một “**<ruby>圖
 “四<span class="special-font">𩒺</span>”，𡀳噲𱺵“四角”，𱺵“宮<span class="special-font">𩒺</span>”“商<span class="special-font">𩒺</span>”“徵<span class="special-font">𩒺</span>”“羽<span class="special-font">𩒺</span>”，高欣四基𠬠壙𠀧長。
 
 "<ruby>𱑕𠄩律呂<rt>Mười hai Luật Lữ</rt></ruby>" <ruby>包𠁟<rt>bao gồm</rt></ruby>: "<ruby>黃鐘<rt>Hoàng Chung</rt></ruby>" "<ruby>大呂<rt>Đại Lữ</rt></ruby>" "<ruby>太簇<rt>Thái Thốc</rt></ruby>" "<ruby>夾鐘<rt>Giáp Chung</rt></ruby>" "<ruby>姑洗<rt>Cô Tiển</rt></ruby>" "<ruby>仲呂<rt>Trọng Lữ</rt></ruby>" "<ruby>蕤賓<rt>Nhuy Tân</rt></ruby>" "<ruby>林鐘<rt>Lâm Chung</rt></ruby>" "<ruby>夷則<rt>Di Tắc</rt></ruby>" "<ruby>南呂<rt>Nam Lữ</rt></ruby>" "<ruby>無射<rt>Vô Dịch</rt></ruby>" "<ruby>應鐘<rt>Ứng Chung</rt></ruby>".
+
+<br>
+<hr>
+<br>
+
+AI의 <ruby>指導<rt>지도</rt></ruby> 아래, 저는 JavaScript, CSS, HTML을 사용하여 웹 버전 "**<ruby>旋宮圖<rt>선궁도</rt></ruby>**"를 <ruby>構築<rt>구축</rt></ruby>했습니다. 이 <ruby>圖表<rt>도표</rt></ruby>는 **<ruby>旋宮<rt>선궁</rt></ruby> <ruby>犯調<rt>범조</rt></ruby>** <ruby>實習<rt>실습</rt></ruby> 및 **<ruby>之調<rt>지조</rt></ruby>·<ruby>爲調<rt>위조</rt></ruby>** <ruby>轉換<rt>변환</rt></ruby> 시나리오에 <ruby>活用<rt>활용</rt></ruby>될 수 있습니다.
+
+**안쪽 <ruby>圓<rt>원</rt></ruby>은 "<ruby>五正聲<rt>오정성</rt></ruby>", "<ruby>四變聲<rt>사변성</rt></ruby>"이고요. <ruby>中間<rt>중간</rt></ruby> <ruby>圓<rt>원</rt></ruby>은 "<ruby>四基<rt>사기</rt></ruby>", "<ruby>四曾<rt>사증</rt></ruby>", "<ruby>四<span class="special-font">𩒺</span><rt>사부</rt></ruby>"이고요. 바깥쪽 <ruby>圓<rt>원</rt></ruby>은 "<ruby>十二律呂<rt>십이율려</rt></ruby>"입니다.**
+
+"<ruby>五正聲<rt>오정성</rt></ruby>"은 "<ruby>宮<rt>궁</rt></ruby>" "<ruby>商<rt>상</rt></ruby>" "<ruby>角<rt>각</rt></ruby>" "<ruby>徵<rt>치</rt></ruby>" "<ruby>羽<rt>우</rt></ruby>"입니다.
+
+"<ruby>四變聲<rt>사변성</rt></ruby>"은 "<ruby>清角<rt>청각</rt></ruby>" "<ruby>變徵<rt>변치</rt></ruby>" "<ruby>清羽<rt>청우</rt></ruby>" "<ruby>變宮<rt>변궁</rt></ruby>"입니다.
+
+"<ruby>四基<rt>사기</rt></ruby>"는 "<ruby>宮<rt>궁</rt></ruby>" "<ruby>商<rt>상</rt></ruby>" "<ruby>徵<rt>치</rt></ruby>" "<ruby>羽<rt>우</rt></ruby>"입니다.
+
+"<ruby>四曾<rt>사증</rt></ruby>"은 "<ruby>宮曾<rt>궁증</rt></ruby>" "<ruby>商曾<rt>상증</rt></ruby>" "<ruby>徵曾<rt>치증</rt></ruby>" "<ruby>羽曾<rt>우증</rt></ruby>"이며, <ruby>四基<rt>사기</rt></ruby>보다 <ruby>長<rt>장</rt></ruby>3<ruby>度<rt>도</rt></ruby> 낮습니다.
+
+"<ruby>四<span class="special-font">𩒺</span><rt>사부</rt></ruby>"는 <ruby>別名<rt>별명</rt></ruby> "<ruby>四角<rt>사각</rt></ruby>"이라고도 불리며, "<ruby>宮<span class="special-font">𩒺</span><rt>궁부</rt></ruby>" "<ruby>商<span class="special-font">𩒺</span><rt>상부</rt></ruby>" "<ruby>徵<span class="special-font">𩒺</span><rt>치부</rt></ruby>" "<ruby>羽<span class="special-font">𩒺</span><rt>우부</rt></ruby>"이며, <ruby>四基<rt>사기</rt></ruby>보다 <ruby>長<rt>장</rt></ruby>3<ruby>度<rt>도</rt></ruby> 높습니다.
+
+"<ruby>十二律<rt>십이율</rt></ruby>"은 "<ruby>黃鐘<rt>황종</rt></ruby>" "<ruby>大呂<rt>대려</rt></ruby>" "<ruby>太簇<rt>태촉</rt></ruby>" "<ruby>夾鐘<rt>협종</rt></ruby>" "<ruby>姑洗<rt>고천</rt></ruby>" "<ruby>仲呂<rt>중려</rt></ruby>" "<ruby>蕤賓<rt>유빈</rt></ruby>" "<ruby>林鐘<rt>임종</rt></ruby>" "<ruby>夷則<rt>이칙</rt></ruby>" "<ruby>南呂<rt>남려</rt></ruby>" "<ruby>無射<rt>무역</rt></ruby>" "<ruby>應鐘<rt>응종</rt></ruby>"입니다.
