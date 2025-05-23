@@ -71,13 +71,13 @@ AIの指導のもと、私はJavaScript、CSS、HTMLを用いてウェブ版「*
 
 「四変声」は「<ruby>清角<rt>せいかく</rt></ruby>」「<ruby>変徴<rt>へんち</rt></ruby>」「<ruby>清羽<rt>せいう</rt></ruby>」「<ruby>変宮<rt>へんきゅう</rt><ruby>」です。
 
-「四基」は「宮」「商」「徴」「羽」です。
+「<ruby>四基<rt>しき</rt></ruby>」は「<ruby>宮<rt>きゅう</rt></ruby>」「<ruby>商<rt>しょう</rt></ruby>」「<ruby>徴<rt>ち</rt></ruby>」「<ruby>羽<rt>う</rt></ruby>」です。
 
-「四曾」は「宮曾」「商曾」「徴曾」「羽曾」で、四基よりも長三度低いです。
+「<ruby>四曾<rt>しそう</rt></ruby>」は「<ruby>宮曾<rt>きゅうそう</rt></ruby>」「<ruby>商曾<rt>しょうそう</rt></ruby>」「<ruby>徴曾<rt>ちそう</rt></ruby>」「<ruby>羽曾<rt>うそう</rt></ruby>」で、四基よりも長三度低いです。
 
-「四<span class="special-font">𩒺</span>」は別名「四角」とも呼ばれ、「宮<span class="special-font">𩒺</span>」「商<span class="special-font">𩒺</span>」「徴<span class="special-font">𩒺</span>」「羽<span class="special-font">𩒺</span>」で、四基よりも長三度高いです。
+「<ruby>四<span class="special-font">𩒺</span><rt>しほ</rt></ruby>」は別名「<ruby>四角<rt>しかく</rt></ruby>」とも呼ばれ、「<ruby>宮<span class="special-font">𩒺</span><rt>きゅうほ</rt></ruby>」「<ruby>商<span class="special-font">𩒺</span><rt>しょうほ</rt></ruby>」「<ruby>徵<span class="special-font">𩒺</span><rt>ちほ</rt></ruby>」「<ruby>羽<span class="special-font">𩒺</span><rt>うほ</rt></ruby>」で、四基よりも長三度高いです。
 
-「十二律」は「<ruby>黄鐘<rt>こうしょう</rt></ruby>」「<ruby>大呂<rt>たいりょ</rt></ruby>」「<ruby>太簇<rt>たいそう</rt></ruby>」「<ruby>夾鐘<rt>きょうしょう</rt></ruby>」「<ruby>姑洗<rt>こせん</rt></ruby>」「<ruby>仲呂<rt>ちゅうりょ</rt></ruby>」「<ruby>蕤賓<rt>すいひん</rt></ruby>」「<ruby>林鐘<rt>りんしょう</rt></ruby>」「<ruby>夷則<rt>いそく</rt></ruby>」「<ruby>南呂<rt>なんりょ</rt></ruby>」「<ruby>無射<rt>ぶえき</rt></ruby>」「<ruby>応鐘<rt>おうしょう</rt></ruby>」です。
+「<ruby>十二律<rt>じゅうにりつ</rt></ruby>」は「<ruby>黄鐘<rt>こうしょう</rt></ruby>」「<ruby>大呂<rt>たいりょ</rt></ruby>」「<ruby>太簇<rt>たいそう</rt></ruby>」「<ruby>夾鐘<rt>きょうしょう</rt></ruby>」「<ruby>姑洗<rt>こせん</rt></ruby>」「<ruby>仲呂<rt>ちゅうりょ</rt></ruby>」「<ruby>蕤賓<rt>すいひん</rt></ruby>」「<ruby>林鐘<rt>りんしょう</rt></ruby>」「<ruby>夷則<rt>いそく</rt></ruby>」「<ruby>南呂<rt>なんりょ</rt></ruby>」「<ruby>無射<rt>ぶえき</rt></ruby>」「<ruby>応鐘<rt>おうしょう</rt></ruby>」です。
 
 <br>
 <hr>
@@ -87,7 +87,20 @@ Dưới sự hướng dẫn của AI, tôi đã xây dựng một “**<ruby>圖
 
 𨑜事向引𧵑AI，碎㐌𡏦𥩯“**圖旋宮**”翻版web憑JavaScript，CSS吧HTML。版圖尼固體應用𥪝轉調**旋宮-犯調**，拱如轉𢷮𡧲系統**之調**吧**爲調**。
 
-**Vòng trong cùng là "Ngũ chính thanh" và "Tứ biến thanh"; vòng giữa là "Tứ cơ", "Tứ tằng" và "Tứ phụ"; vòng ngoài cùng là "Mười hai luật lữ".**
+**Vòng trong cùng là "<ruby>五正聲<rt>Ngũ chính thanh</rt></ruby>" và "<ruby>四變聲<rt>Tứ biến thanh</rt></ruby>"; vòng giữa là "<ruby>四基<rt>Tứ cơ</rt></ruby>", "<ruby>四曾<rt>Tứ tằng</rt></ruby>" và "<ruby>四<span class="special-font">𩒺</span><rt>Tứ phụ</rt></ruby>"; vòng ngoài cùng là "<ruby>𱑕𠄩律呂<rt>Mười hai luật lữ</rt></ruby>".**
 
 **𤥑𥪝窮𱺵“五正聲”吧“四變聲”；𤥑𡧲𱺵“四基”，“四曾”吧“四<span class="special-font">𩒺</span>”；𤥑外窮𱺵“𱑕𠄩律呂”。**
 
+"<ruby>五正聲<rt>Ngũ chính thanh</rt></ruby>" <ruby>𱺵<rt>là</rt></ruby> "<ruby>宮<rt>Cung</rt></ruby>", "<ruby>商<rt>Thương</rt></ruby>", "<ruby>角<rt>Giác</rt></ruby>", "<ruby>徵<rt>Chủy</rt></ruby>", "<ruby>羽<rt>Vũ</rt></ruby>".
+
+"<ruby>四變聲<rt>Tứ biến thanh</rt></ruby>" <ruby>𱺵<rt>là</rt></ruby> "<ruby>清角<rt>Thanh Giác</rt></ruby>", "<ruby>變徵<rt>Biến Chủy</rt></ruby>", "<ruby>清羽<rt>Thanh Vũ</rt></ruby>", "<ruby>變宮<rt>Biến Cung</rt></ruby>".
+
+"<ruby>四基<rt>Tứ cơ</rt></ruby>" <ruby>𱺵<rt>là</rt></ruby> "<ruby>宮<rt>Cung</rt></ruby>", "<ruby>商<rt>Thương</rt></ruby>", "<ruby>徵<rt>Chủy</rt></ruby>", "<ruby>羽<rt>Vũ</rt></ruby>".
+
+"<ruby>四曾<rt>Tứ tằng</rt></ruby>" là "<ruby>宮曾<rt>Cung Tằng</rt></ruby>", "<ruby>商曾<rt>Thương Tằng</rt></ruby>", "<ruby>徵曾<rt>Chủy Tằng</rt></ruby>", "<ruby>羽曾<rt>Vũ Tằng</rt></ruby>", thấp hơn Tứ Cơ một quãng Ba trưởng.
+
+“四曾”𱺵“宮曾”，“商曾”，“徴曾”，“羽曾”，隰欣四基𠬠壙𠀧長。
+
+"<ruby>四<span class="special-font">𩒺</span><rt>Tứ phụ</rt></ruby>", còn gọi là "<ruby>四角<rt>Tứ Giác</rt></ruby>", là "<ruby>宮<span class="special-font">𩒺</span><rt>Cung Phụ</rt></ruby>", "<ruby>商<span class="special-font">𩒺</span><rt>Thương Phụ</rt></ruby>", "<ruby>徵<span class="special-font">𩒺</span><rt>Chủy Phụ</rt></ruby>", "<ruby>羽<span class="special-font">𩒺</span><rt>Vũ Phụ</rt></ruby>", cao hơn Tứ Cơ một quãng Ba trưởng.
+
+“四<span class="special-font">𩒺</span>”，𡀳噲𱺵“四角”，𱺵“宮<span class="special-font">𩒺</span>”，“商<span class="special-font">𩒺</span>”，“徵<span class="special-font">𩒺</span>”，“羽<span class="special-font">𩒺</span>”，高欣四基𠬠壙𠀧長。
