@@ -19,7 +19,7 @@ categories: Weblogs網誌
 
 [旋宮圖 Hsüan Kung Diagram](https://yongzs1218.github.io/hsuan-kung)
 
-[GitHub Repository (open-source via CC BY 4.0)](https://github.com/YongZS1218/hsuan-kung)
+[GitHub Repository (open-source via MIT licence)](https://github.com/YongZS1218/hsuan-kung)
 
 在AI的指導下，我用JavaScript、CSS和HTML架設了一份網頁版「**旋宮圖**」。該圖可用於**旋宮犯調**實踐，**之調、爲調轉換**等場景。
 
