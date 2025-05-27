@@ -35,6 +35,13 @@
   </a>
 {%- endif -%}
 
+{%- if site.gitlab_username -%}
+  <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab">
+    <img src="https://simpleicons.org/icons/gitlab.svg" width="24" height="24" alt="gitlab" style="vertical-align:middle;">
+    <span class="username"></span>
+  </a>
+{%- endif -%}
+
 {%- if site.youtube_username -%}
   <a href="https://youtube.com/@{{ site.youtube_username }}" title="youtube">
     <img src="https://simpleicons.org/icons/youtube.svg" width="24" height="24" alt="youtube" style="vertical-align:middle;">
