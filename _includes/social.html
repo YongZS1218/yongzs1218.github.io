@@ -56,6 +56,13 @@
   </a>
 {%- endif -%}
 
+{%- if site.douyin_username -%}
+  <a href="https://douyin.com/user/{{ site.douyin_username }}" title="douyin">
+    <img src="https://simpleicons.org/icons/tiktok.svg" width="24" height="24" alt="douyin" style="vertical-align:middle;">
+    <span class="uid"></span>
+  </a>
+{%- endif -%}
+
 {%- if site.facebook_username or social_links.facebook -%}
   <a href="https://facebook.com/{{ site.facebook_username | default: social_links.facebook }}" title="Facebook">
     <img src="https://simpleicons.org/icons/facebook.svg" width="24" height="24" alt="facebook" style="vertical-align:middle;">
