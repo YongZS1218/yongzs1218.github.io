@@ -1,0 +1,16 @@
+---
+layout: post
+title: "挑戰你的審美！理解十二音技法，看懂現代音樂的「進化」"
+date: 2025-06-06 19:30:00 +0800
+categories: Weblogs網誌
+---
+
+<link rel="stylesheet" href="/style.css">
+
+你聽過「無調性」音樂嗎？本片帶你深入十二音技法的奧秘，感受現代音樂的顛覆性魅力。準備好接受審美的挑戰了嗎？
+
+可在以下平臺觀看:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMhj5_SdGfY?si=S75Wg1_AjWgdKeUK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114624842175820&bvid=BV1DZTjzAEHf&cid=25806639190&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="https://www.acfun.cn/v/ac47356187" width="800" height="450" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe frameborder="0" src="https://tv.sohu.com/s/sohuplayer/iplay.html?bid=644878084&autoplay=true&disablePlaylist=true" allowFullScreen="true" scrolling="no"></iframe>
