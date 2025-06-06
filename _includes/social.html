@@ -7,9 +7,9 @@
   </a>
 {%- endif -%}
 
-{%- if site.instagram_username or social_links.instagram -%}
-  <a href="https://instagram.com/{{ site.instagram_username | default: social_links.instagram }}" title="Instagram">
-    <img src="https://simpleicons.org/icons/instagram.svg" width="24" height="24" alt="instagram" style="vertical-align:middle;">
+{%- if site.xlog_username -%}
+  <a href="https://{{ site.zlog_username }}.zlog.app" title="xLog">
+    <img src="https://raw.githubusercontent.com/Crossbell-Box/xLog/main/public/assets/logo.svg" width="24" height="24" alt="xLog" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
@@ -17,6 +17,13 @@
 {%- if site.fediverse_username -%}
   <a rel="me" href="https://{{ site.fediverse_username | split: '@' | last }}/@{{ site.fediverse_username | split: '@' | first }}" title="Fediverse">
     <img src="https://raw.githubusercontent.com/YongZS1218/yongzs1218.github.io/7c0e74955d074e308b2e6614e647352384d64bd1/_posts/_pictures%2C%20audios%20and%20videos/Fediverse_mono.svg" width="24" height="24" alt="Fediverse" style="vertical-align:middle;">
+    <span class="username"></span>
+  </a>
+{%- endif -%}
+
+{%- if site.instagram_username or social_links.instagram -%}
+  <a href="https://instagram.com/{{ site.instagram_username | default: social_links.instagram }}" title="Instagram">
+    <img src="https://simpleicons.org/icons/instagram.svg" width="24" height="24" alt="instagram" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
@@ -30,21 +37,21 @@
 
 {%- if site.github_username or social_links.github -%}
   <a href="https://github.com/{{ site.github_username | default: social_links.github }}" title="GitHub">
-    <img src="https://simpleicons.org/icons/github.svg" width="24" height="24" alt="github" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/github.svg" width="24" height="24" alt="GitHub" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
 
 {%- if site.gitlab_username -%}
   <a href="https://gitlab.com/{{ site.gitlab_username }}" title="GitLab">
-    <img src="https://simpleicons.org/icons/gitlab.svg" width="24" height="24" alt="gitlab" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/gitlab.svg" width="24" height="24" alt="GitLab" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
 
 {%- if site.youtube_username -%}
   <a href="https://youtube.com/@{{ site.youtube_username }}" title="youtube">
-    <img src="https://simpleicons.org/icons/youtube.svg" width="24" height="24" alt="youtube" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/youtube.svg" width="24" height="24" alt="YouTube" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
@@ -58,21 +65,21 @@
 
 {%- if site.acfun_uid -%}
   <a href="https://www.acfun.cn/u/{{ site.acfun_uid }}" title="acfun">
-    <img src="https://raw.githubusercontent.com/YongZS1218/yongzs1218.github.io/a98d5749a1a7e14562987351b99303de7c52ffc2/_posts/_pictures%2C%20audios%20and%20videos/AcFun%20icon.svg" width="24" height="24" alt="acfun" style="vertical-align:middle;">
+    <img src="https://raw.githubusercontent.com/YongZS1218/yongzs1218.github.io/a98d5749a1a7e14562987351b99303de7c52ffc2/_posts/_pictures%2C%20audios%20and%20videos/AcFun%20icon.svg" width="24" height="24" alt="AcFun" style="vertical-align:middle;">
     <span class="uid"></span>
   </a>
 {%- endif -%}
 
 {%- if site.douyin_username -%}
   <a href="https://douyin.com/user/{{ site.douyin_username }}" title="douyin">
-    <img src="https://simpleicons.org/icons/tiktok.svg" width="24" height="24" alt="douyin" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/tiktok.svg" width="24" height="24" alt="抖音" style="vertical-align:middle;">
     <span class="uid"></span>
   </a>
 {%- endif -%}
 
 {%- if site.facebook_username or social_links.facebook -%}
   <a href="https://facebook.com/{{ site.facebook_username | default: social_links.facebook }}" title="Facebook">
-    <img src="https://simpleicons.org/icons/facebook.svg" width="24" height="24" alt="facebook" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/facebook.svg" width="24" height="24" alt="Facebook" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
@@ -93,14 +100,14 @@
 
 {%- if site.bandlab_username -%}
   <a href="https://bandlab.com/{{ site.bandlab_username }}" title="bandlab">
-    <img src="https://simpleicons.org/icons/bandlab.svg" width="24" height="24" alt="bandlab" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/bandlab.svg" width="24" height="24" alt="Bandlab" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
 
 {%- if site.rss_link -%}
   <a href="{{ site.rss_link }}" title="rss">
-    <img src="https://simpleicons.org/icons/rss.svg" width="24" height="24" alt="rss" style="vertical-align:middle;">
+    <img src="https://simpleicons.org/icons/rss.svg" width="24" height="24" alt="RSS" style="vertical-align:middle;">
     <span class="username"></span>
   </a>
 {%- endif -%}
