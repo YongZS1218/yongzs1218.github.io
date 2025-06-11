@@ -74,3 +74,5 @@ web
 <a href="https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z" target="_blank">
   <img src="https://github.com/YongZS1218/yongzs1218.github.io/blob/main/_posts/_pictures,%20audios%20and%20videos/travel%20footprints.png?raw=true" alt="travel footprints" width="100%" height="50%"/>
 </a>
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a74ecbf660194e7eb73ff3ff1347da9d"}'></script><!-- End Cloudflare Web Analytics -->
