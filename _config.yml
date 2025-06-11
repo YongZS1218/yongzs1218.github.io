@@ -3,7 +3,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Music production enthusiast, travelling & photography lover, I’ll post my daily life here.
   音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yongzs1218.pages.dev/"
+url: "https://yongzs1218.github.io/"
 hyperlinks_username: yongzs1218
 github_username: YongZS1218
 gitlab_username: YongZS1218
