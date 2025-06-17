@@ -71,8 +71,9 @@ web
 **Video**
 [YouTube](https://www.youtube.com/@yongzs1218)｜[Dailymotion](https://www.dailymotion.com/user/yongzs1218)｜[Odysee](https://odysee.com/@yongzs1218)｜[TikTok](https://www.tiktok.com/@yongzs1218)｜[bilibili/哔哩哔哩](https://space.bilibili.com/618957997)｜[AcFun](https://www.acfun.cn/u/51064405)｜[抖音/Douyin](https://www.douyin.com/user/MS4wLjABAAAA6XGuIBDNrQ3rRy7KAczB8CFrBn2CLEFbaUPE5x4k7So)｜[快手/Kuaishou](https://www.kuaishou.com/profile/3xw8cp8hu54y85s)｜[VK Video/ВК Видео](https://vkvideo.ru/@yongzs1218_video)｜[Niconico/ニコニコ](https://www.nicovideo.jp/user/131152965)｜[Kwai](https://m.kwai.com/old/user/@yongzs1218)
 
+<iframe src="https://pari.icu/embed/user-timeline/a70r35f9pbiq138c?header=false&maxHeight=400&border=false" data-misskey-embed-id="v1_a93x9zjdio" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" style="border: none; width: 100%; max-width: 500px; height: 300px; color-scheme: light dark;"></iframe>
+<script defer src="https://pari.icu/embed.js"></script>
+
 <a href="https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z" target="_blank">
   <img src="https://github.com/YongZS1218/yongzs1218.github.io/blob/main/_posts/_pictures,%20audios%20and%20videos/travel%20footprints.png?raw=true" alt="travel footprints" width="100%" height="50%"/>
 </a>
-
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a74ecbf660194e7eb73ff3ff1347da9d"}'></script><!-- End Cloudflare Web Analytics -->
