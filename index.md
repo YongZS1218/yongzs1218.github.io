@@ -4,8 +4,6 @@ title: "Home主頁"
 list_title: ''
 ---
 
-<link rel="stylesheet" href="/_sass/main.scss">
-
 **Hello**／您好／Hallo／こんにちは／<ruby>吀<rt>Xin</rt></ruby>&nbsp;&nbsp;<ruby>嘲<rt>Chào</rt></ruby>／<ruby>安<rt>안</rt></ruby><ruby>寧<rt>녕</rt></ruby>하십니까／Привет／ཁྱེད་རང་བདེ་མོ།👋🏼
 
 - **Welcome to my weblog.**
