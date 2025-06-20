@@ -194,7 +194,7 @@ table td {
 }
 
 .site-title, .site-title:visited {
-    color: rgb(66.25, 66.25, 66.25); /* 注意：這裡的 RGB 值可能需要手動調整為十六進制或更標準的 RGB */
+    color: var(--minima-brand-color); /* 使用深淺色模式的品牌顏色變數 */
 }
 
 .site-nav {
@@ -224,8 +224,8 @@ table td {
         position: absolute;
         top: 9px;
         right: 15px;
-        background-color: #fdfdfd;
-        border: 1px solid #e8e8e8;
+        background-color: var(--header-bg); /* 使用 header 背景變數 */
+        border: 1px solid var(--border-color); /* 使用 border 變數 */
         border-radius: 5px;
         text-align: right;
     }
@@ -250,7 +250,8 @@ table td {
     }
 
     .site-nav .menu-icon > svg {
-        fill: rgb(66.25, 66.25, 66.25); /* 注意：這裡的 RGB 值可能需要手動調整為十六進制或更標準的 RGB */
+        fill: var(--minima-brand-color); /* 使用品牌顏色變數 (通常用於主要顏色) */
+        /* 或者 fill: var(--header-text-color); 如果你希望它與頁眉文字顏色一致 */
     }
 
     .site-nav input ~ .trigger {
