@@ -102,7 +102,7 @@ html[data-theme='light'] {
 
 // 將 CSS 變數應用到 Minima 主題的元素上 (覆蓋 Minima 原始樣式)
 body {
-  font-family: 'Minh Ngyuen', serif; // 確保你的自定義字體應用
+  font-family: 'Minh Ngyuen', serif !important; // 確保你的自定義字體應用
   color: var(--text-color);
   background-color: var(--background-color);
 }
@@ -158,7 +158,7 @@ pre > code {
 // 你的其他自定義 CSS 內容 (放在最後，方便覆蓋)
 // -------------------------------------------
 .special-font {
-    font-family: "HanaMinB", serif;
+    font-family: "HanaMinB", serif !important;
 }
 .site-title { /* 注意：這裡的 .site-title 選擇器會覆蓋上面的 color 變數 */
     display: flex;
