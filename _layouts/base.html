@@ -1,7 +1,27 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 
-  {%- include head.html -%}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+    // 這行是關鍵，它會引入從 _sass/main.scss 編譯出來的 CSS
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+
+    // {# 其他你可能需要的 meta 標籤 #}
+    // {# 例如：
+    // {% if site.feed and site.feed.path %}
+      // <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.baseurl | append: site.feed.path }}">
+    // {% endif %}
+    // {% if site.plugins contains "jekyll-seo-tag" %}
+      // {% include head.html %} {# 如果你仍想使用 Minima 的 head.html 部分，你需要把它複製到你的 _includes/ #}
+    // {% endif %}
+    // #}
+
+  </head>
 
   <body>
 
@@ -14,6 +34,62 @@
     </main>
 
     {%- include footer.html -%}
+
+    // JavaScript for theme toggle - 放在這裡最合適
+    <script>
+      const themeToggle = document.getElementById('theme-toggle');
+      const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+
+      function getStoredTheme() {
+        return localStorage.getItem('theme');
+      }
+
+      function setStoredTheme(theme) {
+        localStorage.setItem('theme', theme);
+      }
+
+      function applyTheme(theme) {
+        if (theme === 'dark') {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        } else if (theme === 'light') {
+          document.documentElement.setAttribute('data-theme', 'light');
+        } else { // 'system' or no preference stored
+          if (prefersDarkScheme.matches) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+          } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+          }
+        }
+      }
+
+      // 初始化：根據儲存的偏好或系統偏好設定主題
+      const storedTheme = getStoredTheme();
+      applyTheme(storedTheme);
+
+      // 當用戶點擊按鈕時切換主題
+      if (themeToggle) { // 確保按鈕存在
+        themeToggle.addEventListener('click', () => {
+          let currentTheme = document.documentElement.getAttribute('data-theme');
+          let newTheme;
+
+          if (currentTheme === 'light') {
+            newTheme = 'dark';
+          } else {
+            newTheme = 'light';
+          }
+
+          applyTheme(newTheme);
+          setStoredTheme(newTheme);
+        });
+      }
+
+      // 監聽系統主題偏好變化，如果用戶沒有手動設定，則自動更新
+      prefersDarkScheme.addEventListener('change', (e) => {
+        if (!getStoredTheme()) { // 只有當用戶沒有手動選擇主題時才自動適應
+          applyTheme('system');
+        }
+      });
+    </script>
 
   </body>
 
