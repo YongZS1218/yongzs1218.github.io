@@ -4,7 +4,7 @@ title: "Contact聯絡"
 permalink: /contact/
 ---
 
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/_sass/main.scss">
 
 ### **Contact Informations**
 #### **聯絡方式／Kontaktinformationen／聯絡先／<ruby>通<rt>Thông</rt></ruby>&nbsp;&nbsp;<ruby>信<rt>Tin</rt></ruby>&nbsp;<ruby>聯<rt>Liên</rt></ruby>&nbsp;<ruby>絡<rt>Lạc</rt></ruby>／Контактная Информация／འབྲེལ་མཐུད་བྱེད་སྟངས།**
