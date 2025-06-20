@@ -543,6 +543,16 @@ table td {
         --minima-grey-color: #aaa;
         --minima-light-grey-color: #444;
     }
+    /* 添加這段代碼來反轉頁腳社交圖標的顏色 */
+    /* 這裡選取 footer 內部的 social-media-list 裡面的所有 img 標籤 */
+    .site-footer .social-media-list img {
+      filter: invert(1) hue-rotate(180deg) brightness(1.5); /* 反轉顏色並調整色相和亮度 */
+    }
+
+    /* 如果需要，還可以添加 hover 效果 */
+    .site-footer .social-media-list img:hover {
+   1   filter: invert(0.8) hue-rotate(180deg) brightness(1.8); /* hover 時可以稍微不同 */
+    }
 }
 
 /* 如果你想添加手動切換功能 (JavaScript)，這個部分會讓手動選擇優先 */
