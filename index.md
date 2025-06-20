@@ -29,10 +29,10 @@ web
 - **Pronouns: ze / zir / 伊 / 渠 / 佢**
 - **📍Chinese Mainland, Han Chinese**
 
-    **Music production enthusiast, travelling & photography lover, I’ll post my daily life here.**
+    **Music composition - musicology - musictech - DSP - computer programming lover, travelling & photography enthusiast, I’ll post my daily life here.**
 - 📍中國大陸，漢族
 
-    音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
+    作曲·音樂學·音樂科技·數位訊號處理·編程熱愛者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 - 📍Chinesische Festland, Han-Ethnie
     
     Musikproduktions-Enthusiast, Reise- und Fotografie-Liebhaber, ich werde hier mein tägliches Leben posten.
