@@ -1,7 +1,8 @@
 title: YongZS永值生's Weblog
 description: >- # this means to ignore newlines until "baseurl:"
-  Music production enthusiast, travelling & photography lover, I’ll post my daily life here.
-  音樂製作愛好者，旅行與攝影愛好者，我會將我的日常生活發布至此。
+  Music composition - musicology - musictech - DSP - computer programming lover, travelling & photography enthusiast, I’ll post my daily life here.
+
+  作曲·音樂學·音樂科技·數位訊號處理·編程熱愛者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yongzs1218.github.io/"
 hyperlinks_username: yongzs1218
