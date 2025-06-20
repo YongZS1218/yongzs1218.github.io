@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Weblogs網誌"
 permalink: /blog/
 ---
