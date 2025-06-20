@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Home主頁"
+list_title: ''
 ---
 
 <link rel="stylesheet" href="style.css">
