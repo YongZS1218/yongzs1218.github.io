@@ -5,7 +5,7 @@ date: 2025-04-06 20:00:00 +0800
 categories: Weblogs網誌
 ---
 
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/_sass/main.scss">
 
 <h3>Übung zur atonalen Komposition</h3>
 
