@@ -6,8 +6,6 @@ categories: Weblogs網誌
 hashtags: [GitHubPages, Markdown, 網誌, weblog, ウェブログ, nhật ký web, 日記web, веб-журнал, ཟིན་བྲིས]
 ---
 
-<link rel="stylesheet" href="/style.css">
-
 ## **Hello World!**
 ### **肇始之言，遍告寰宇！／Hallo Welt!／こんにちは、世界！／Xin chào Thế giới! 吀嘲世界！／Привет, мир!／འཛམ་གླིང་བདེ་ལེགས།**
 
