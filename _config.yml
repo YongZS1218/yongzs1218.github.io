@@ -25,10 +25,6 @@ rss_link: https://rss.beauty/rss?url=https://yongzs1218.github.io/feed.xml
 # Build settings
 theme: minima
 
-sass:
-  sass_dir: _sass
-  style: compressed # 或者 'expanded' 在開發時方便查看
-
 # 顯示Weblogs分頁
 collections:
   posts:
