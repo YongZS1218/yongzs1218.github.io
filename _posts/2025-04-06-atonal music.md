@@ -5,8 +5,6 @@ date: 2025-04-06 20:00:00 +0800
 categories: Weblogs網誌
 ---
 
-<link rel="stylesheet" href="/_sass/main.scss">
-
 <h3>Übung zur atonalen Komposition</h3>
 
 <h3><ruby>無<rt>む</rt></ruby>&nbsp;<ruby>調性<rt>ちょうせい</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>作曲<rt>さっきょく</rt></ruby>&nbsp;&nbsp;&nbsp;&nbsp;<ruby>練習<rt>れんしゅう</rt></ruby></h3>
