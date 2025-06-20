@@ -4,7 +4,7 @@ title: "Weblogs網誌"
 permalink: /blog/
 ---
 
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/_sass/main.scss">
 
 <h3><strong>My Weblogs</strong></h3>
 
