@@ -24,8 +24,6 @@ rss_link: https://rss.beauty/rss?url=https://yongzs1218.github.io/feed.xml
 
 # Build settings
 theme: minima
-include:
-  - /_sass/main.scss
 
 sass:
   sass_dir: _sass
