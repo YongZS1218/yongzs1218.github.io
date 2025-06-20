@@ -5,7 +5,7 @@ date: 2025-04-28 19:30:00 +0800
 categories: Weblogs網誌
 ---
 
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="/_sass/main.scss">
 
 <iframe 
   src="https://yongzs1218.github.io/hsuan-kung/" 
