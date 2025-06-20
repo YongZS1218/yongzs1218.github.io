@@ -25,7 +25,7 @@ rss_link: https://rss.beauty/rss?url=https://yongzs1218.github.io/feed.xml
 # Build settings
 theme: minima
 include:
-  - style.css
+  - /_sass/main.scss
 
 # 顯示Weblogs分頁
 collections:
