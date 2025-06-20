@@ -32,13 +32,13 @@ web
     **Music composition - musicology - music technology - DSP - computer programming lover, travelling & photography enthusiast, I’ll post my daily life here.**
 - 📍中國大陸，漢族
 
-    作曲·音樂學·音樂科技·數位訊號處理·編程熱愛者，旅行與攝影愛好者，我會將我的日常生活發布至此。
+    作曲·音樂學·音樂科技·數位訊號處理·電腦編程熱愛者，旅行與攝影愛好者，吾將筆載日常於此。
 - 📍Chinesische Festland, Han-Ethnie
     
     Musikkomposition - Musikwissenschaft - Musiktechnologie - DSP (Digitale Signalverarbeitung) - Computerprogrammierung Liebhaber, Reisen & Fotografie-Enthusiasten, werde ich mein tägliches Leben hier posten.
 - 📍中国大陸、漢民族
 
-    音楽制作愛好家、旅行と写真愛好家、ここで私の日常生活を投稿します。
+    音楽作曲・音楽学・ミュージックテクノロジー・デジタル信号処理(DSP)・計算機プログラミングを愛好し、旅行と写真撮影を趣味としております。日常の記録をここに残してまいります。
 - 📍<ruby>中<rt>Trung</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>國<rt>Quốc</rt></ruby>&nbsp;&nbsp;<ruby>大<rt>đại</rt></ruby>&nbsp;<ruby>陸<rt>lục</rt></ruby>，<ruby>𠊛<rt>người</rt></ruby>&nbsp;&nbsp;&nbsp;<ruby>漢<rt>Hán</rt></ruby>
 
     Người đam mê sản xuất âm nhạc, người yêu thích du lịch và nhiếp ảnh, tôi sẽ đăng tải cuộc sống hàng ngày của mình tại đây.
