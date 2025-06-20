@@ -35,7 +35,7 @@ web
     作曲·音樂學·音樂科技·數位訊號處理·編程熱愛者，旅行與攝影愛好者，我會將我的日常生活發布至此。
 - 📍Chinesische Festland, Han-Ethnie
     
-    Musikkomposition - Musikwissenschaft - Musiktechnologie - DSP - Computerprogrammierung Liebhaber, Reisen & Fotografie-Enthusiasten, werde ich mein tägliches Leben hier posten.
+    Musikkomposition - Musikwissenschaft - Musiktechnologie - DSP (Digitale Signalverarbeitung) - Computerprogrammierung Liebhaber, Reisen & Fotografie-Enthusiasten, werde ich mein tägliches Leben hier posten.
 - 📍中国大陸、漢民族
 
     音楽制作愛好家、旅行と写真愛好家、ここで私の日常生活を投稿します。
