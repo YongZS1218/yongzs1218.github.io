@@ -8,18 +8,18 @@
     <title>{{ page.title | default: site.title | escape }}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-    // 這行是關鍵，它會引入從 _sass/main.scss 編譯出來的 CSS
+    <!-- 這行是關鍵，它會引入從 _sass/main.scss 編譯出來的 CSS-->
     <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
-    // {# 其他你可能需要的 meta 標籤 #}
-    // {# 例如：
-    // {% if site.feed and site.feed.path %}
-      // <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.baseurl | append: site.feed.path }}">
-    // {% endif %}
-    // {% if site.plugins contains "jekyll-seo-tag" %}
-      // {% include head.html %} {# 如果你仍想使用 Minima 的 head.html 部分，你需要把它複製到你的 _includes/ #}
-    // {% endif %}
-    // #}
+    <!-- {# 其他你可能需要的 meta 標籤 #}
+    {# 例如：
+    {% if site.feed and site.feed.path %}
+      <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.baseurl | append: site.feed.path }}">
+    {% endif %}
+    {% if site.plugins contains "jekyll-seo-tag" %}
+      {% include head.html %} {# 如果你仍想使用 Minima 的 head.html 部分，你需要把它複製到你的 _includes/ #}
+    {% endif %}
+    #} -->
 
   </head>
 
@@ -35,7 +35,7 @@
 
     {%- include footer.html -%}
 
-    // JavaScript for theme toggle - 放在這裡最合適
+    <!-- JavaScript for theme toggle - 放在這裡最合適-->
     <script>
       const themeToggle = document.getElementById('theme-toggle');
       const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
