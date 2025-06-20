@@ -5,8 +5,6 @@ date: 2025-04-01 20:00:00 +0800
 categories: Weblogs網誌
 ---
 
-<link rel="stylesheet" href="/style.css">
-
 桃李不言，下自成蹊。
 
 Peaches and plums don’t speak, yet a path forms beneath them.
