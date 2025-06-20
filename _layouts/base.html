@@ -10,7 +10,12 @@
 
     <!-- 這行是關鍵，它會引入從 _sass/main.scss 編譯出來的 CSS-->
     <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}">
-
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    
     <!-- {# 其他你可能需要的 meta 標籤 #}
     {# 例如：
     {% if site.feed and site.feed.path %}
