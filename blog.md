@@ -21,3 +21,6 @@ permalink: /blog/
     </li>
   {% endfor %}
 </ul>
+
+<iframe src="https://pari.icu/embed/user-timeline/a70r35f9pbiq138c?maxHeight=400&border=false" data-misskey-embed-id="v1_a988rzaecd" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" style="border: none; width: 100%; max-width: 500px; height: 300px; color-scheme: light dark;"></iframe>
+<script defer src="https://pari.icu/embed.js"></script>
