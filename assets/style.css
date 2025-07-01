@@ -742,8 +742,8 @@ pre > code {
 }
 
 .share-button {
-    background-color: #4CAF50; /* 圖片中的深色按鈕，這裡用綠色示意 */
-    color: white;
+    background-color: #c0a0ff; /* 深色按鈕 */
+    color: #000000;
     padding: 10px 15px;
     border: none;
     cursor: pointer;
@@ -757,7 +757,7 @@ pre > code {
 }
 
 .share-button:hover {
-    background-color: #45a049;
+    background-color: #9f7be3;
 }
 
 .share-button .fediverse-icon {
