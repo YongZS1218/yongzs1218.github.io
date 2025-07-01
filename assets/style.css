@@ -765,25 +765,38 @@ pre > code {
     height: 20px;
 }
 
-/* 確保圖片與文字對齊 */
+/* 確保頁腳頂部標題有適當的底部間距 */
+.site-footer .footer-heading {
+    margin-bottom: 1.5em; /* 增加底部間距，使其與下方三列分開 */
+    text-align: center; /* 讓網站標題居中，這是常見的頁腳標題樣式 */
+}
+
+/* CC 許可證的樣式 */
+.cc-license-info {
+    margin-top: 1em; /* 與上方聯絡資訊的間距 */
+    font-size: 0.9em; 
+    color: #aaa;    
+    text-align: left; /* 與第一列保持左對齊 */
+}
+
 .cc-license-info img {
     vertical-align: middle;
 }
 
-/* 調整第三列社群連結的對齊方式和間距 */
-.footer-col-3 .social-links {
-    text-align: left; /* 默認應該是左對齊，如果你希望居中，可以改成 center */
-    /* 可以根據需要添加 margin-top 或 padding-top 來調整與上方描述的間距 */
+/* 調整第二列社群連結的對齊方式和間距 */
+.footer-col-2 .social-links {
+    text-align: left; /* 默認左對齊，你可以根據需要改成 center 或 right */
+    /* 這裡可以添加 margin-top 或 padding-top 來調整與上方描述的間距，如果社群連結在第二列的獨立一行 */
 }
 
-/* 如果你的主題讓社群圖標間距過大或過小，可以在這裡調整 */
-.footer-col-3 .social-links a {
-    margin-right: 8px; /* 調整圖標之間的間距 */
-    margin-bottom: 8px; /* 如果有多行，調整行間距 */
+/* 調整社群圖標之間的間距 */
+.footer-col-2 .social-links a {
+    margin-right: 8px; /* 圖標之間的水平間距 */
+    margin-bottom: 8px; /* 如果有多行，調整垂直間距 */
     display: inline-block; /* 確保 margin 和 padding 生效 */
 }
 
-/* 為了讓頁腳標題（h2.footer-heading）與其他部分有適當間距 */
-.site-footer .footer-heading {
-    margin-bottom: 1.5em; /* 增加底部間距 */
+/* 確保第三列的網站描述正確對齊 */
+.footer-col-3 p {
+    text-align: left; /* 默認左對齊，如果需要可以改為 center 或 right */
 }
