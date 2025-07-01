@@ -35,7 +35,21 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
-      </div>
+
+        <div class="fediverse-share-box-wrapper">
+            <div class="share-container">
+                <p class="share-text">Share this page to your Fediverse server. Enter your full username:</p>
+                <div class="input-group">
+                    <span class="prefix">@</span>
+                    <input type="text" class="fediverse-username-input" value="" placeholder="username@instance.name">
+                    <button class="share-button">
+                        <img src="{{ '/_posts/_pictures,%20audios%20and%20videos/Fediverse_mono.svg' | relative_url }}" alt="Fediverse Icon" class="fediverse-icon"> Share
+                    </button>
+                </div>
+                <a href="https://jointhefediverse.net/?lang=en-us">What is Fediverse?</a>
+            </div>
+        </div>
+        </div>
     </main>
 
     {%- include footer.html -%}
@@ -95,6 +109,8 @@
         }
       });
     </script>
+    
+    <script src="{{ '/assets/fediverse-share.js' | relative_url }}"></script>
 
   </body>
 
