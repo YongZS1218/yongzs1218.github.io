@@ -767,9 +767,8 @@ pre > code {
 
 /* 確保頁腳頂部標題有適當的底部間距 */
 .site-footer .footer-heading {
-    margin-top: 1em; /* 增加底部間距，使其與下方三列分開 */
-    text-align: center; /* 讓網站標題居中，這是常見的頁腳標題樣式 */
-}
+    margin-top: 3em;
+    text-align: left;
 
 /* CC 許可證的樣式 */
 .cc-license-info {
