@@ -765,14 +765,15 @@ pre > code {
     height: 20px;
 }
 
-.cc-license-info-header {
-    text-align: center;
-    margin-bottom: 1em; /* 在它下方增加一些間距 */
-    font-size: 1em;     /* 調整字體大小 */
-    color: #eee;        /* 調整文字顏色 */
+.cc-license-info {
+    /* 這裡的 margin-top 是為了讓它與上方的聯絡資訊有些間距 */
+    margin-top: 1em; 
+    font-size: 0.9em; /* 可以根據需要調整大小 */
+    color: #aaa;    /* 可以根據需要調整顏色 */
+    /* text-align: left; /* 由於它在第一列內，通常會繼承左對齊，但可以顯式設定 */ 
 }
 
 /* 確保圖片與文字對齊 */
-.cc-license-info-header img {
+.cc-license-info img {
     vertical-align: middle;
 }
