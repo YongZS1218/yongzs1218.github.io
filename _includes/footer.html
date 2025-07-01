@@ -1,0 +1,35 @@
+<link id="fa-stylesheet" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css">
+
+<footer class="site-footer h-card">
+  <data class="u-url" value="{{ '/' | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="cc-license-info-header" style="text-align: center; margin-bottom: 1em; font-size: 1em; color: #eee;">
+        <a>YongZS永值生's Weblog</a> &copy; {{ site.time | date: '%Y' }} by <a>YongZS永值生</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC icon" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY icon" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA icon" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+    </div>
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+      {%- if site.author %}
+        <ul class="contact-list">
+          {% if site.author.name -%}
+            <li class="p-name">{{ site.author.name | escape }}</li> 
+          {% endif -%}
+          {% if site.author.email -%}
+            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          {%- endif %}
+        </ul>
+      {%- endif %}
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+    <div class="social-links">
+      {%- include social.html -%}
+    </div>
+
+  </div>
+
+</footer>
