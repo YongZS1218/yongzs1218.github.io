@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
             window.open(instanceUrlToOpen, '_blank', 'width=600,height=400');
 
             // 彈出提示，顯示用戶的實例 URL 和當前頁面 URL
-            alert(`Your Fediverse instance (${instanceUrlToOpen}) is opened.\nPlease manually copy the link to this page into your posting box:\n${currentPageUrl}`);
+            alert(`Your Fediverse instance (${instance}) is opened.\nPlease manually copy the link to this page into your posting box:\n${currentPageUrl}`);
 
         } else {
             alert('Please enter a valid Fediverse username, for example: username@instance.name!');
