@@ -24,13 +24,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (instance) {
             // 將完整的用戶名保存到 localStorage
             localStorage.setItem('fediverseUsername', fullUsername);
-
-            // Fediverse 分享 URL
-            const shareText = encodeURIComponent(`看這個：${decodeURIComponent(pageTitle)} ${decodeURIComponent(currentPageUrl)}`);
-            const shareUrl = `https://${instance}/compose?text=${shareText}`;
             
-            // 打開新視窗分享
-            window.open(shareUrl, '_blank', 'width=600,height=400');
+            // 嘗試構建撰寫頁面 URL，不帶預填文本
+            const composePageUrl = `https://${instance}`;
+            window.open(instanceHomePageUrl, '_blank', 'width=600,height=400'); // 打開一個新的小視窗
+            
+            // 彈出提示，讓用戶手動複製連結
+            alert(`Your Fediverse instance (@${instanceHomePageUrl}) is opened.\nPlease manually copy the link to this page into your posting box:\n${currentPageUrl}`);
+
         } else {
             alert('Please enter a valid Fediverse username, for example: username@instance.name!');
         }
