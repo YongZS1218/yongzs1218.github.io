@@ -684,3 +684,83 @@ pre > code {
         grid-template-columns: 1fr;
     }
 }
+
+// Fediverse 分享框樣式
+.fediverse-share-box-wrapper {
+    margin-top: 40px; /* 增加頂部間距 */
+    padding-top: 20px; /* 增加內邊距 */
+    border-top: 1px solid #444; /* 添加一條分隔線，與頁腳區分 */
+    max-width: 600px; /* 限制寬度 */
+    margin-left: auto; /* 左右自動邊距以居中 */
+    margin-right: auto;
+}
+
+.share-container {
+    background-color: #333; /* 類似圖片的深色背景 */
+    color: #eee; /* 文字顏色 */
+    padding: 20px;
+    border-radius: 8px; /* 輕微的圓角 */
+    font-family: sans-serif; /* 常用字體 */
+    /* max-width: 600px; 不再需要，因為外部 wrapper 已經設置了 */
+    /* margin: 20px auto; 不再需要，由 wrapper 處理 */
+}
+
+.share-text {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+.share-text .fediverse-link {
+    color: #4CAF50; /* 你圖片中的藍色，這裡用綠色示意 */
+    text-decoration: underline;
+}
+
+.input-group {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid #555;
+}
+
+.input-group .prefix {
+    background-color: #f0f0f0;
+    padding: 10px 12px;
+    color: #555;
+    font-weight: bold;
+    border-right: 1px solid #ddd;
+}
+
+.input-group .fediverse-username-input {
+    flex-grow: 1;
+    border: none;
+    padding: 10px 12px;
+    font-size: 1em;
+    outline: none;
+    color: #333;
+}
+
+.share-button {
+    background-color: #4CAF50; /* 圖片中的深色按鈕，這裡用綠色示意 */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    white-space: nowrap;
+    border-left: 1px solid #ddd;
+}
+
+.share-button:hover {
+    background-color: #45a049;
+}
+
+.share-button .fediverse-icon {
+    width: 20px;
+    height: 20px;
+}
