@@ -6,12 +6,8 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col">
-      {%- if site.author %}
+      <div class="footer-col footer-col-1"> {%- if site.author %}
         <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li> 
-          {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.email }}</a></li>
           {%- endif %}
@@ -19,17 +15,17 @@
       {%- endif %}
 
         <div class="cc-license-info" style="margin-top: 1em; font-size: 0.9em; color: #aaa; text-align: left;">
-            <p>YongZS永值生's Weblog</p> &copy; {{ site.time | date: '%Y' }} by <p>YongZS永值生</p> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC icon" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY icon" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA icon" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+            YongZS永值生's Weblog &copy; {{ site.time | date: '%Y' }} by YongZS永值生 is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC icon" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY icon" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="SA icon" style="max-width: 1em;max-height:1em;margin-left: .2em;">
         </div>
       </div>
 
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+      <div class="footer-col footer-col-2"> <p>{{ site.description | escape }}</p>
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
+      
+      <div class="footer-col footer-col-3"> <div class="social-links">
+          {%- include social.html -%}
+        </div>
+      </div>
     </div>
 
   </div>
