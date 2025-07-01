@@ -767,7 +767,7 @@ pre > code {
 
 /* 確保頁腳頂部標題有適當的底部間距 */
 .site-footer .footer-heading {
-    margin-top: 10em;
+    margin-top: 2em;
     text-align: left;
 
 /* CC 許可證的樣式 */
