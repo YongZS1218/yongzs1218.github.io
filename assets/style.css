@@ -764,3 +764,15 @@ pre > code {
     width: 20px;
     height: 20px;
 }
+
+.cc-license-info-header {
+    text-align: center;
+    margin-bottom: 1em; /* 在它下方增加一些間距 */
+    font-size: 1em;     /* 調整字體大小 */
+    color: #eee;        /* 調整文字顏色 */
+}
+
+/* 確保圖片與文字對齊 */
+.cc-license-info-header img {
+    vertical-align: middle;
+}
