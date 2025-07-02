@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 點擊分享按鈕的事件監聽器
     shareButton.addEventListener('click', () => {
         const fullUsername = usernameInput.value.trim(); // 獲取完整的用戶名字符串
-        const currentPageUrl = window.location.href;; // 獲取當前頁面 URL 不進行編碼
+        const currentPageUrl = encodeURIComponent(window.location.href); // 獲取當前頁面 URL 並進行編碼
         const pageTitle = encodeURIComponent(document.title || 'This page'); // 獲取頁面標題
 
         // 解析用戶名以提取實例名稱
@@ -25,16 +25,12 @@ document.addEventListener('DOMContentLoaded', () => {
             // 將完整的用戶名保存到 localStorage
             localStorage.setItem('fediverseUsername', fullUsername);
             
-            // 嘗試構建撰寫頁面 URL，不帶預填文本
-            // 定義要打開的實例首頁 URL
-            const instanceUrlToOpen = `https://${instance}/`; // 直接指向實例根目錄
+            // 構建分享頁面 URL，使用解析出的 instance
+            let shareUrl = `https://${instance}/share?text=${pageTitle}&url=${currentPageUrl}`;
+
+            // 打開新視窗
+            window.open(shareUrl, '_blank', 'width=600,height=400,resizable=yes,scrollbars=yes');
             
-            // 使用正確的變數來打開視窗
-            window.open(instanceUrlToOpen, '_blank', 'width=600,height=400');
-
-            // 彈出提示，顯示用戶的實例 URL 和當前頁面 URL
-            alert(`Your Fediverse instance (@${instance}) is opened.\nPlease manually copy the link to this page into your posting box:\n${currentPageUrl}`);
-
         } else {
             alert('Please enter a valid Fediverse username, for example: username@instance.name!');
         }
