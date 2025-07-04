@@ -13,6 +13,8 @@ I have studied Professor Shann Wei-chang’s course *Introduction to University 
 <img src="https://raw.githubusercontent.com/YongZS1218/yongzs1218.github.io/refs/heads/main/_posts/_pictures%2C%20audios%20and%20videos/%E5%A4%A7%E5%AD%B8%E5%85%A5%E9%96%80%E5%BE%AE%E7%A9%8D%E5%88%863.jpg" alt="P3"/>
 以下爲原影片課程：
 
-YouTube影片課程：<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=ekiFcKlFLAdfN5Kq&amp;list=PL09B4C92AD57E0090" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+YouTube影片課程：
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=ekiFcKlFLAdfN5Kq&amp;list=PL09B4C92AD57E0090" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-bilibili搬運：<iframe width="100%" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=75458778&bvid=BV1aE411e7kJ&cid=129079481&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+bilibili搬運：
+<iframe width="100%" height="315" src="//player.bilibili.com/player.html?isOutside=true&aid=75458778&bvid=BV1aE411e7kJ&cid=129079481&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
