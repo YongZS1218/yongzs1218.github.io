@@ -56,5 +56,5 @@ web
   རོལ་དབྱངས་བཟོ་སྐྲུན་ལ་དགའ་མཁན་དང་། འགྲུལ་བཞུད་དང་པར་ལེན་ལ་དགའ་མཁན། ངས་འདི་གར་ངའི་ཉིན་རེའི་འཚོ་བ་སྤེལ་རྒྱུ་ཡིན།
 
 <a href="https://felt.com/map/YongZSYong-Zhi-Sheng-s-travel-footprints-79AEfCe3oQsiMNTT5DhiSYB?loc=22.97,149.43,3z" target="_blank">
-  <img src="[https://github.com/YongZS1218/yongzs1218.github.io/blob/main/_posts/_pictures,%20audios%20and%20videos/travel%20footprints.png?raw=true" alt="travel footprints" width="100%" height="50%"/>
+  <img src="https://github.com/YongZS1218/yongzs1218.github.io/blob/main/_posts/_pictures,%20audios%20and%20videos/travel%20footprints.png?raw=true" alt="travel footprints" width="100%" height="50%"/>
 </a>
