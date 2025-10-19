@@ -10,7 +10,7 @@ permalink: /contact/
 - **E-mail：**[yongzs1218@sohu.com](mailto:yongzs1218@sohu.com)｜
 [yongzs1218@proton.me](mailto:yongzs1218@proton.me)｜
 [yongzs1218@vk.com](mailto:yongzs1218@vk.com)
-- **Matrix:** [@yongzs1218:matrix.org](https://matrix.to/#/@username:matrix.org)
+- **Matrix:** [@yongzs1218:matrix.org](https://matrix.to/#/@yongzs1218:matrix.org)
 - **Telegram:** [@yongzs1218](https://t.me/yongzs1218)
 - **LINE:** [yungcs1218](https://line.me/ti/p/wLMQGJ87jm)
 - **Kakao Talk:** [yongzs1218](https://qr.kakao.com/talk/Qh3geJCiJAkytjyKiPaE1Qlvwbo-)
