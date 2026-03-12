@@ -14,7 +14,6 @@ permalink: /contact/
 - **Signal:** [@yongzs.1218](https://signal.me/#eu/yongzs.1218)
 - **Telegram:** [@yongzs1218](https://t.me/yongzs1218)
 - **LINE:** [yungcs1218](https://line.me/ti/p/wLMQGJ87jm)
-- **Kakao Talk:** [yongzs1218](https://qr.kakao.com/talk/Qh3geJCiJAkytjyKiPaE1Qlvwbo-)
 
 
 ### **Hyperlinks**
